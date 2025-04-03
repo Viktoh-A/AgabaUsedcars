@@ -1,0 +1,870 @@
+"Brand","Model","Year","Price","EngineSize","Gear","Mileage","FuelType","Doors","Description"
+"Audi","A1 Sportback","2023 (23 reg)",NA,"Manual","Manual","26,011 miles
+13,616 miles above average","Petrol","5","Technik 25 TFSI 95 PS 5-speed 1.0 5dr"
+"Fiat","Seicento","2002 (51 reg)","£795","Manual","Manual","91,000 miles","Petrol","4","1.1 Sporting 3dr"
+"Vauxhall","Corsa","2011 (11 reg)","£995","1.2L","Manual","98,408 miles
+18,022 miles above average","Petrol","3","1.2 16V Excite Euro 5 3dr"
+"Volvo","960","1992 (K reg)","£750","3.0L","Automatic","130,000 miles","Petrol","5","3.0 5dr"
+"Vauxhall","Corsa","2013 (13 reg)",NA,"1.4L","Manual","101,138 miles
+24,422 miles above average","Petrol","3","1.4 SRI 3d 98 BHP *** FULL SERVICE HISTORY ***"
+"Volkswagen","Golf","2005 (05 reg)","£485","1.4L","Manual","140,000 miles","Petrol","5","1.4 S 5dr"
+"Suzuki","Grand Vitara","2008 (08 reg)","£1,495","1.6L","Manual","85,000 miles","Petrol","3","1.6 VVT + 4WD Euro 4 3dr"
+"Vauxhall","Astra","2009 (59 reg)","£799","1.4L","Manual","90,000 miles","Petrol","5","1.4i 16v Active 5dr"
+"Audi","A3","2012 (12 reg)","£3,499","Manual","Manual","89,000 miles
+18,127 miles below average","Diesel","5","1.6 TDI Sport Sportback Euro 5 (s/s) 5dr"
+"Audi","A3","2008 (08 reg)","£995","Manual","Manual","127,000 miles","Diesel","5","1.9 TDI Sport Sportback 5dr"
+"Fiat","500","2012 (12 reg)","£1,195","0.9L","Manual","104,000 miles
+34,027 miles above average","Petrol","3","0.9 TwinAir Euro 5 (s/s) 3dr"
+"Vauxhall","Astra","2012 (12 reg)","£1,599","2.0L","Manual","115,101 miles
+13,305 miles above average","Diesel","5","2.0 CDTi ecoFLEX SRi Euro 5 (s/s) 5dr"
+"Renault","Kadjar","2020 (20 reg)","£11,227","1.3L","Manual","50,953 miles
+18,189 miles above average","Petrol","5","1.3 TCe Iconic SUV 5dr Petrol Manual Euro 6 (s/s) (140 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Vauxhall","Grandland X","2019 (19 reg)","£9,059","Manual","Manual","71,771 miles
+28,342 miles above average","Petrol","5","1.2 Turbo GPF Sport Nav (130 ps) - AMBIENT INTERIOR LIGHTING 5dr"
+"Hyundai","i20","2010 (10 reg)","£750","1.2L","Manual","115,000 miles
+36,999 miles above average","Petrol","5","1.2 Comfort Euro 4 5dr"
+"KIA","Sportage","2013 (63 reg)","£3,995","1.7L","Manual","64,000 miles
+23,254 miles below average","Diesel","5","1.7 CRDi EcoDynamics 2 2WD Euro 5 (s/s) 5dr"
+"Citroen","C3","2014 (14 reg)",NA,"1.0L","Manual","66,341 miles
+5,632 miles above average","Petrol","5","1.0 VTi VTR+ Euro 5 5dr"
+"Citroen","C3 Pluriel","2009 (09 reg)","£800","1.4L","Manual","102,000 miles","Petrol","2","1.4i Code 2dr"
+"Nissan","Qashqai","2007 (57 reg)","£777","1.5L","Manual","84,000 miles","Diesel","5","1.5 dCi Tekna 2WD 5dr"
+"Citroen","C1","2009 (09 reg)","£995","1.0L","Manual","58,000 miles","Petrol","3","1.0i VTR Euro 4 3dr"
+"Volvo","V40","2013 (13 reg)","£1,500","1.6L","Manual","159,000 miles
+56,806 miles above average","Diesel","5","1.6 D2 R-Design Euro 5 (s/s) 5dr"
+"Mazda","2","2009 (09 reg)",NA,"1.3L","Manual","66,000 miles","Petrol","5","1.3 TS 5d 74 BHP * ACCIDENT DAMAGED NOT RECORDED *"
+"Vauxhall","Insignia","2011 (61 reg)","£999","Manual","Manual","82,325 miles
+21,592 miles below average","Diesel","5","2.0 CDTi SRi 4WD Euro 5 (s/s) 5dr"
+"Vauxhall","Corsa","2009 (09 reg)","£600","Petrol","Manual","99,978 miles","Petrol","Manual",NA
+"Ford","Mondeo","2012 (62 reg)",NA,"2.0L","Manual","77,880 miles
+22,350 miles below average","Diesel","5","2.0 TDCi Titanium X Sport Hatchback 5dr Diesel Manual Euro 5 (163 ps) NATIONWIDE DELIVERY FROM £99"
+"Ford","Focus","2017 (17 reg)","£8,579","1.5L","Manual","57,283 miles
+1,805 miles below average","Petrol","5","1.5T EcoBoost ST-Line (150 ps) - KEYLESS START - CLIMATE CONTROL - DAB 5dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Ford","Focus","2017 (17 reg)","£8,579","1.5L","Manual","57,283 miles
+1,805 miles below average","Petrol","5","1.5T EcoBoost ST-Line (150 ps) - KEYLESS START - CLIMATE CONTROL - DAB 5dr"
+"SEAT","Ibiza","2008 (08 reg)","£990","Manual","Manual","108,000 miles","Petrol","5","1.4 16v Sportrider 3dr"
+"Hyundai","i20","2011 (11 reg)","£1,999","1.2L","Manual","60,038 miles
+14,451 miles below average","Petrol","3","1.2 Edition Euro 5 3dr"
+"Ford","Fiesta","2009 (59 reg)","£895","Manual","Manual","107,000 miles","Petrol","5","1.4 Zetec 5dr"
+"Volvo","S40","2011 (11 reg)","£695","Manual","Manual","198,900 miles
+105,117 miles above average","Diesel","5","1.6D DRIVe ES Euro 4 (s/s) 4dr"
+"Citroen","DS3","2011 (61 reg)","£1,250","1.6L","Manual","99,696 miles
+5,150 miles above average","Diesel","3","1.6 e-HDi Airdream DStyle Plus 3dr"
+"Nissan","Micra","2002 (52 reg)","£799","Manual","Manual","66,290 miles","Petrol","5","1.0 16v Tempest 3dr"
+"Volkswagen","Golf","2008 (08 reg)","£2,495","Manual","Manual","120,000 miles","Diesel","5","2.0 TDI GT 5dr"
+"Vauxhall","Corsa","2009 (59 reg)","£1,595","Manual","Manual","78,000 miles","Petrol","5","1.2i 16v SXi 3dr"
+"SEAT","Ibiza","2009 (59 reg)","£995","1.6L","Manual","120,610 miles","Petrol","3","1.6 16V Sport Sport Coupe Euro 4 3dr"
+"Volkswagen","Polo","2011 (61 reg)","£2,495","Manual","Manual","101,825 miles
+24,524 miles above average","Petrol","5","1.2 Match Euro 5 3dr"
+"Suzuki","Swift","2008 (08 reg)","£1,195","Manual","Manual","104,093 miles","Petrol","5","1.3 GL Hatchback 5dr Petrol Manual (140 g/km, 91 bhp) SUPER TO DRIVE IDEAL 1ST CAR"
+"Honda","Hr-v","2016 (16 reg)",NA,"1.6L","Manual","50,743 miles
+20,856 miles below average","Diesel","5","1.6 i-DTEC SE SUV 5dr Diesel Manual Euro 6 (s/s) (120 ps) PARKING SENSORS + CRUISE CONTROL"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Vauxhall","Astra GTC","2016 (16 reg)",NA,"1.4L","Manual","34,955 miles
+26,962 miles below average","Petrol","3","1.4i Turbo Sport Coupe 3dr Petrol Manual Euro 6 (s/s) (120 ps) - Cruise Control + Air Conditioning"
+"Ford","KA","2011 (11 reg)","£600","1.2L","Manual","88,000 miles
+17,590 miles above average","Petrol","3","1.2 Edge Hatchback 3dr Petrol Manual Euro 5 (s/s) (69 ps)"
+"Peugeot","208","2015 (15 reg)","£1,490","1.0L","Manual","63,000 miles
+399 miles below average","Petrol","3","1.0 VTi PureTech Active 3dr"
+"SEAT","Ibiza","2009 (09 reg)","£2,199","Manual","Manual","79,000 miles","Petrol","5","1.4 16V Sport Sport Coupe Euro 4 3dr"
+"Renault","Megane","2013 (13 reg)","£1,495","Manual","Manual","101,000 miles
+14,085 miles above average","Diesel","5","1.5 dCi Dynamique TomTom Euro 5 (s/s) 3dr"
+"Ford","Puma","2002 (02 reg)","£400","1.7L","Manual","83,000 miles","Petrol","3","1.7 3dr"
+"Microcar","M8",NA,"£990","2013 (13 reg)",NA,"16,200 miles",NA,NA,NA
+"Volkswagen","Touran","2010 (10 reg)","£1,000","Manual","Manual","83,000 miles
+36,848 miles below average","Diesel","7","1.9 TDI BlueMotion Tech S 5dr (7 Seats)"
+"Vauxhall","Vectra","2006 (06 reg)","£595","1.8L","Manual","75,959 miles","Petrol","5","1.8 VVT Exclusiv 5dr"
+"Jeep","Patriot","2008 (57 reg)","£800","2.0L","Manual","109,006 miles","Diesel","5","2.0 CRD Limited 4x4 5dr"
+"KIA","Ceed","2012 (62 reg)","£2,499","1.6L","Manual","132,000 miles
+35,745 miles above average","Diesel","5","1.6 CRDi EcoDynamics 3 Euro 5 (s/s) 5dr"
+"Vauxhall","Insignia","2010 (60 reg)",NA,"2.0L","Manual","120,000 miles
+15,745 miles above average","Diesel","5","2.0 CDTi Elite Hatchback 5dr Diesel Manual Euro 5 (160 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Audi","A1 Sportback","2023 (23 reg)",NA,"Manual","Manual","26,011 miles
+13,616 miles above average","Petrol","5","Technik 25 TFSI 95 PS 5-speed 1.0 5dr"
+"Fiat","Seicento","2002 (51 reg)","£795","Manual","Manual","91,000 miles","Petrol","4","1.1 Sporting 3dr"
+"Vauxhall","Corsa","2011 (11 reg)","£995","1.2L","Manual","98,408 miles
+18,022 miles above average","Petrol","3","1.2 16V Excite Euro 5 3dr"
+"Volvo","960","1992 (K reg)","£750","3.0L","Automatic","130,000 miles","Petrol","5","3.0 5dr"
+"Vauxhall","Corsa","2013 (13 reg)",NA,"1.4L","Manual","101,138 miles
+24,422 miles above average","Petrol","3","1.4 SRI 3d 98 BHP *** FULL SERVICE HISTORY ***"
+"Volkswagen","Golf","2005 (05 reg)","£485","1.4L","Manual","140,000 miles","Petrol","5","1.4 S 5dr"
+"Suzuki","Grand Vitara","2008 (08 reg)","£1,495","1.6L","Manual","85,000 miles","Petrol","3","1.6 VVT + 4WD Euro 4 3dr"
+"Vauxhall","Astra","2009 (59 reg)","£799","1.4L","Manual","90,000 miles","Petrol","5","1.4i 16v Active 5dr"
+"Audi","A3","2012 (12 reg)","£3,499","Manual","Manual","89,000 miles
+18,127 miles below average","Diesel","5","1.6 TDI Sport Sportback Euro 5 (s/s) 5dr"
+"Audi","A3","2008 (08 reg)","£995","Manual","Manual","127,000 miles","Diesel","5","1.9 TDI Sport Sportback 5dr"
+"Fiat","500","2012 (12 reg)","£1,195","0.9L","Manual","104,000 miles
+34,027 miles above average","Petrol","3","0.9 TwinAir Euro 5 (s/s) 3dr"
+"Vauxhall","Astra","2012 (12 reg)","£1,599","2.0L","Manual","115,101 miles
+13,305 miles above average","Diesel","5","2.0 CDTi ecoFLEX SRi Euro 5 (s/s) 5dr"
+"Renault","Kadjar","2020 (20 reg)","£11,227","1.3L","Manual","50,953 miles
+18,189 miles above average","Petrol","5","1.3 TCe Iconic SUV 5dr Petrol Manual Euro 6 (s/s) (140 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Vauxhall","Grandland X","2019 (19 reg)","£9,059","Manual","Manual","71,771 miles
+28,342 miles above average","Petrol","5","1.2 Turbo GPF Sport Nav (130 ps) - AMBIENT INTERIOR LIGHTING 5dr"
+"Hyundai","i20","2010 (10 reg)","£750","1.2L","Manual","115,000 miles
+36,999 miles above average","Petrol","5","1.2 Comfort Euro 4 5dr"
+"KIA","Sportage","2013 (63 reg)","£3,995","1.7L","Manual","64,000 miles
+23,254 miles below average","Diesel","5","1.7 CRDi EcoDynamics 2 2WD Euro 5 (s/s) 5dr"
+"Citroen","C3","2014 (14 reg)",NA,"1.0L","Manual","66,341 miles
+5,632 miles above average","Petrol","5","1.0 VTi VTR+ Euro 5 5dr"
+"Citroen","C3 Pluriel","2009 (09 reg)","£800","1.4L","Manual","102,000 miles","Petrol","2","1.4i Code 2dr"
+"Nissan","Qashqai","2007 (57 reg)","£777","1.5L","Manual","84,000 miles","Diesel","5","1.5 dCi Tekna 2WD 5dr"
+"Citroen","C1","2009 (09 reg)","£995","1.0L","Manual","58,000 miles","Petrol","3","1.0i VTR Euro 4 3dr"
+"Volvo","V40","2013 (13 reg)","£1,500","1.6L","Manual","159,000 miles
+56,806 miles above average","Diesel","5","1.6 D2 R-Design Euro 5 (s/s) 5dr"
+"Mazda","2","2009 (09 reg)",NA,"1.3L","Manual","66,000 miles","Petrol","5","1.3 TS 5d 74 BHP * ACCIDENT DAMAGED NOT RECORDED *"
+"Vauxhall","Insignia","2011 (61 reg)","£999","Manual","Manual","82,325 miles
+21,592 miles below average","Diesel","5","2.0 CDTi SRi 4WD Euro 5 (s/s) 5dr"
+"Vauxhall","Corsa","2009 (09 reg)","£600","Petrol","Manual","99,978 miles","Petrol","Manual",NA
+"Ford","Mondeo","2012 (62 reg)",NA,"2.0L","Manual","77,880 miles
+22,350 miles below average","Diesel","5","2.0 TDCi Titanium X Sport Hatchback 5dr Diesel Manual Euro 5 (163 ps) NATIONWIDE DELIVERY FROM £99"
+"Ford","Focus","2017 (17 reg)","£8,579","1.5L","Manual","57,283 miles
+1,805 miles below average","Petrol","5","1.5T EcoBoost ST-Line (150 ps) - KEYLESS START - CLIMATE CONTROL - DAB 5dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Ford","Focus","2017 (17 reg)","£8,579","1.5L","Manual","57,283 miles
+1,805 miles below average","Petrol","5","1.5T EcoBoost ST-Line (150 ps) - KEYLESS START - CLIMATE CONTROL - DAB 5dr"
+"SEAT","Ibiza","2008 (08 reg)","£990","Manual","Manual","108,000 miles","Petrol","5","1.4 16v Sportrider 3dr"
+"Hyundai","i20","2011 (11 reg)","£1,999","1.2L","Manual","60,038 miles
+14,451 miles below average","Petrol","3","1.2 Edition Euro 5 3dr"
+"Ford","Fiesta","2009 (59 reg)","£895","Manual","Manual","107,000 miles","Petrol","5","1.4 Zetec 5dr"
+"Volvo","S40","2011 (11 reg)","£695","Manual","Manual","198,900 miles
+105,117 miles above average","Diesel","5","1.6D DRIVe ES Euro 4 (s/s) 4dr"
+"Citroen","DS3","2011 (61 reg)","£1,250","1.6L","Manual","99,696 miles
+5,150 miles above average","Diesel","3","1.6 e-HDi Airdream DStyle Plus 3dr"
+"Nissan","Micra","2002 (52 reg)","£799","Manual","Manual","66,290 miles","Petrol","5","1.0 16v Tempest 3dr"
+"Volkswagen","Golf","2008 (08 reg)","£2,495","Manual","Manual","120,000 miles","Diesel","5","2.0 TDI GT 5dr"
+"Vauxhall","Corsa","2009 (59 reg)","£1,595","Manual","Manual","78,000 miles","Petrol","5","1.2i 16v SXi 3dr"
+"SEAT","Ibiza","2009 (59 reg)","£995","1.6L","Manual","120,610 miles","Petrol","3","1.6 16V Sport Sport Coupe Euro 4 3dr"
+"Volkswagen","Polo","2011 (61 reg)","£2,495","Manual","Manual","101,825 miles
+24,524 miles above average","Petrol","5","1.2 Match Euro 5 3dr"
+"Suzuki","Swift","2008 (08 reg)","£1,195","Manual","Manual","104,093 miles","Petrol","5","1.3 GL Hatchback 5dr Petrol Manual (140 g/km, 91 bhp) SUPER TO DRIVE IDEAL 1ST CAR"
+"Honda","Hr-v","2016 (16 reg)",NA,"1.6L","Manual","50,743 miles
+20,856 miles below average","Diesel","5","1.6 i-DTEC SE SUV 5dr Diesel Manual Euro 6 (s/s) (120 ps) PARKING SENSORS + CRUISE CONTROL"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Vauxhall","Astra GTC","2016 (16 reg)",NA,"1.4L","Manual","34,955 miles
+26,962 miles below average","Petrol","3","1.4i Turbo Sport Coupe 3dr Petrol Manual Euro 6 (s/s) (120 ps) - Cruise Control + Air Conditioning"
+"Ford","KA","2011 (11 reg)","£600","1.2L","Manual","88,000 miles
+17,590 miles above average","Petrol","3","1.2 Edge Hatchback 3dr Petrol Manual Euro 5 (s/s) (69 ps)"
+"Peugeot","208","2015 (15 reg)","£1,490","1.0L","Manual","63,000 miles
+399 miles below average","Petrol","3","1.0 VTi PureTech Active 3dr"
+"SEAT","Ibiza","2009 (09 reg)","£2,199","Manual","Manual","79,000 miles","Petrol","5","1.4 16V Sport Sport Coupe Euro 4 3dr"
+"Renault","Megane","2013 (13 reg)","£1,495","Manual","Manual","101,000 miles
+14,085 miles above average","Diesel","5","1.5 dCi Dynamique TomTom Euro 5 (s/s) 3dr"
+"Ford","Puma","2002 (02 reg)","£400","1.7L","Manual","83,000 miles","Petrol","3","1.7 3dr"
+"Microcar","M8",NA,"£990","2013 (13 reg)",NA,"16,200 miles",NA,NA,NA
+"Volkswagen","Touran","2010 (10 reg)","£1,000","Manual","Manual","83,000 miles
+36,848 miles below average","Diesel","7","1.9 TDI BlueMotion Tech S 5dr (7 Seats)"
+"Vauxhall","Vectra","2006 (06 reg)","£595","1.8L","Manual","75,959 miles","Petrol","5","1.8 VVT Exclusiv 5dr"
+"Jeep","Patriot","2008 (57 reg)","£800","2.0L","Manual","109,006 miles","Diesel","5","2.0 CRD Limited 4x4 5dr"
+"KIA","Ceed","2012 (62 reg)","£2,499","1.6L","Manual","132,000 miles
+35,745 miles above average","Diesel","5","1.6 CRDi EcoDynamics 3 Euro 5 (s/s) 5dr"
+"Vauxhall","Insignia","2010 (60 reg)",NA,"2.0L","Manual","120,000 miles
+15,745 miles above average","Diesel","5","2.0 CDTi Elite Hatchback 5dr Diesel Manual Euro 5 (160 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Volkswagen","E-golf","2020 (70 reg)","£10,531","Hatchback","Automatic","34,590 miles
+9,029 miles above average","Electric","5","35.8kWh e-Golf (136 ps) - DAB - USB AUDIO - SPLIT FOLDING REAR SEATS 5dr"
+"Mazda","Mazda3","2009 (09 reg)","£1,750","Manual","Manual","105,000 miles","Diesel","5","2.2d Sport Euro 5 5dr"
+"Vauxhall","Corsa","2012 (12 reg)","£2,250","1.2L","Manual","68,000 miles
+9,490 miles below average","Petrol","5","1.2 16V SXi Euro 5 5dr (A/C)"
+"Toyota","Celica","2004 (04 reg)","£1,695","1.8L","Manual","122,800 miles","Petrol","3","1.8 VVTL-i T Sport 3dr (leather)"
+"SKODA","Octavia","2011 (61 reg)",NA,"Manual","Manual","147,000 miles
+23,351 miles above average","Diesel","5","2.0 TDI Scout 4WD Euro 5 5dr"
+"Ford","Fiesta","2012 (12 reg)",NA,"1.4L","Manual","70,500 miles
+22,839 miles below average","Diesel","5","1.4 TDCi DPF Zetec 5dr"
+"Nissan","Juke","2013 (13 reg)",NA,"1.5L","Manual","70,969 miles
+22,156 miles below average","Diesel","5","1.5 dCi 8v Visia SUV 5dr Diesel Manual Euro 5 (s/s) (110 ps)"
+"Volkswagen","Scirocco","2009 (59 reg)","£1,500","1.4L","Manual","125,279 miles","Petrol","3","1.4 TSI Hatchback 3dr Petrol Manual Euro 5 (160 ps)"
+"MINI","Hatch","2006 (56 reg)",NA,"Manual","Manual","102,400 miles","Petrol","4","1.6 Cooper Euro 4 3dr"
+"Toyota","Auris","2008 (08 reg)",NA,"2.0L","Manual","138,343 miles","Diesel","5","2.0 D-4D T3 5dr"
+"Vauxhall","Zafira","2013 (13 reg)","£495","Manual","Manual","86,000 miles
+4,028 miles below average","Diesel","7","1.7 CDTi ecoFLEX Design MPV 5dr Diesel Manual Euro 5 (SNav) (125 ps)"
+"Nissan","Juke","2013 (13 reg)",NA,"1.5L","Manual","70,969 miles
+22,156 miles below average","Diesel","5","1.5 dCi 8v Visia SUV 5dr Diesel Manual Euro 5 (s/s) (110 ps)"
+"Volkswagen","E-golf","2020 (70 reg)","£10,531","Hatchback","Automatic","34,590 miles
+9,029 miles above average","Electric","5","35.8kWh e-Golf (136 ps) - DAB - USB AUDIO - SPLIT FOLDING REAR SEATS 5dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Ford","Mondeo","2007 (07 reg)","£495","1.8L","Manual","113,000 miles","Diesel","5","1.8 TDCi Ghia 5dr"
+"Citroen","C3","2013 (62 reg)","£995","Manual","Manual","168,000 miles
+88,610 miles above average","Diesel","5","1.4 HDi VTR+ Euro 5 5dr"
+"Nissan","Qashqai","2016 (16 reg)","£6,750","1.2L","Manual","73,229 miles
+12,547 miles above average","Petrol","5","1.2 DIG-T n-tec 2WD Euro 6 (s/s) 5dr"
+"Fiat","500L","2014 (14 reg)","£500","1.3L","Manual","67,219 miles
+10,099 miles below average","Diesel","5","1.3 MultiJet Pop Star MPW Euro 5 (s/s) 5dr"
+"Vauxhall","Corsa","2012 (62 reg)","£500","1.4L","Manual","120,000 miles
+48,068 miles above average","Petrol","5","1.4 16V SXi Hatchback 5dr Petrol Manual Wide Ratio Euro 5 (A/C) (100 ps)"
+"KIA","Ceed","2010 (10 reg)","£750","1.6L","Manual","89,000 miles
+4,157 miles below average","Petrol","5","1.6 3 Sports Wagon Euro 4 5dr"
+"Renault","Clio","2002 (52 reg)","£1,495","1.5L","Manual","82,000 miles","Diesel","3","1.5 dCi Dynamique + 3dr"
+"Volkswagen","Golf","2008 (58 reg)","£750","1.9L","Manual","119,000 miles","Diesel","5","1.9 TDI Match Hatchback 5dr Diesel Manual (132 g/km, 103 bhp)"
+"Ford","Focus","2009 (59 reg)","£995","Manual","Manual","117,896 miles","Petrol","5","1.6 Zetec Hatchback 5dr Petrol Manual (161 g/km, 99 bhp)"
+"Vauxhall","Corsa","2010 (11 reg)","£500","Manual","Manual","104,033 miles
+13,080 miles above average","Diesel","5","1.3 CDTi ecoFLEX Active 5dr"
+"Volkswagen","Scirocco","2012 (12 reg)","£2,000","2.0L","Manual","167,000 miles
+64,690 miles above average","Diesel","3","2.0 TDI BlueMotion Tech GT Euro 5 (s/s) 3dr"
+"Audi","A4","2021 (21 reg)",NA,"2.0L","Automatic","32,817 miles
+2,134 miles above average","Petrol","4","Black Edition 35 TFSI 150 PS S tronic 2.0 4dr"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Nissan","Note","2009 (09 reg)","£695","1.4L","Manual","137,000 miles","Petrol","5","1.4 16V Acenta Euro 4 5dr"
+"Renault","Megane","2008 (08 reg)","£450","1.9L","Manual","157,000 miles","Diesel","5","1.9 dCi FAP Expression Hatchback 5dr Diesel Manual (145 g/km, 130 bhp)"
+"Mazda","Mazda3","2013 (62 reg)","£2,990","Manual","Manual","84,000 miles
+14,406 miles below average","Diesel","5","1.6d Venture Euro 5 5dr"
+"Volkswagen","Polo","2011 (11 reg)",NA,"1.4L","Manual","93,985 miles
+19,589 miles above average","Petrol","5","1.4 SE Euro 5 5dr"
+"KIA","Picanto","2012 (62 reg)","£1,145","1.0L","Manual","127,000 miles
+62,334 miles above average","Petrol","5","1.0 1 Euro 5 5dr"
+"Citroen","C4","2016 (16 reg)","£1,985","Manual","Manual","102,600 miles
+45,316 miles above average","Petrol","5","1.2 PureTech Feel Euro 6 5dr"
+"Citroen","DS4","2013 (13 reg)","£2,495","1.6L","Manual","102,513 miles
+16,205 miles above average","Diesel","5","1.6 HDi DStyle Euro 5 5dr"
+"Nissan","Almera","2005 (05 reg)","£495","1.5L","Manual","100,000 miles","Petrol","5","1.5 SE 5dr"
+"MINI","Hatch","2010 (10 reg)",NA,"1.4L","Manual","120,000 miles
+36,583 miles above average","Petrol","3","1.4 First Hatchback 3dr Petrol Manual Euro 4 (75 ps) FREE NATIONWIDE 6 MONTH WARRANTY"
+"Renault","Clio","2015 (64 reg)","£2,999","1.5L","Manual","77,000 miles
+3,448 miles below average","Diesel","5","1.5 dCi Dynamique MediaNav Euro 5 (s/s) 5dr"
+"Audi","TT","2010 (10 reg)","£6,995","2.0L","Manual","64,823 miles
+40,907 miles below average","Diesel","3","2.0 TDI S line Special Edition Coupe 3dr Diesel Manual quattro Euro 4 (170 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Audi","A3","2021 (21 reg)","£21,695","Automatic","Automatic","29,597 miles
+107 miles below average","Petrol","5","1.5 TFSI 35 S line Sportback 5dr Petrol S Tronic Euro 6 (s/s) (150 ps)"
+"Vauxhall","Corsa","2011 (11 reg)","£2,475","1.4L","Automatic","111,000 miles
+36,112 miles above average","Petrol","5","1.4 16V SE Auto Euro 5 5dr"
+"Renault","Megane","2013 (62 reg)","£995","1.9L","Manual","102,000 miles
+24,199 miles above average","Diesel","2","1.9 dCi Dynamique TomTom Euro 5 2dr"
+"MINI","Hatch","2003 (52 reg)",NA,"Manual","Manual","165,000 miles","Petrol","4","1.6 Cooper Euro 3 3dr"
+"MINI","Hatch","2010 (10 reg)","£550","1.6L","Manual","84,000 miles
+1,046 miles above average","Petrol","3","1.6 One Hatchback 3dr Petrol Manual Euro 5 (98 ps)"
+"Hyundai","Veloster","2013 (13 reg)","£2,495","1.6L","Manual","86,250 miles
+20,947 miles above average","Petrol","4","1.6 GDi Hatchback 4dr Petrol Manual Euro 5 (140 ps)"
+"Daihatsu","Materia","2008 (08 reg)","£750","1.5L","Manual","33,108 miles","Petrol","5","1.5 5dr"
+"Ford","S-max","2011 (11 reg)",NA,"Manual","Manual","113,384 miles
+19,162 miles above average","Petrol","7","S-Max 1.6T EcoBoost Titanium Euro 5 5dr"
+"Vauxhall","Astra","2009 (59 reg)","£699","Manual","Manual","122,000 miles","Petrol","5","1.6i 16v SXi Sport Hatch 3dr"
+"Nissan","Micra","2003 (03 reg)","£3,499","1.2L","Manual","78,288 miles","Petrol","3","1.2 16v SE Hatchback 3dr Petrol Manual (143 g/km, 79 bhp) DOG CAR! HEAD TURNER!"
+"Volkswagen","Polo","2011 (11 reg)","£3,199","Manual","Manual","98,000 miles
+11,579 miles above average","Petrol","5","1.2 Moda Euro 5 3dr"
+"Vauxhall","Astra GTC","2016 (16 reg)",NA,"1.4L","Manual","34,955 miles
+26,962 miles below average","Petrol","3","1.4i Turbo Sport Coupe 3dr Petrol Manual Euro 6 (s/s) (120 ps) - Cruise Control + Air Conditioning"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fiat","Seicento","2002 (51 reg)","£795","Manual","Manual","91,000 miles","Petrol","4","1.1 Sporting 3dr"
+"Vauxhall","Corsa","2011 (11 reg)","£995","1.2L","Manual","98,408 miles
+18,022 miles above average","Petrol","3","1.2 16V Excite Euro 5 3dr"
+"Volvo","960","1992 (K reg)","£750","3.0L","Automatic","130,000 miles","Petrol","5","3.0 5dr"
+"Vauxhall","Corsa","2013 (13 reg)",NA,"1.4L","Manual","101,138 miles
+24,422 miles above average","Petrol","3","1.4 SRI 3d 98 BHP *** FULL SERVICE HISTORY ***"
+"Volkswagen","Golf","2005 (05 reg)","£485","1.4L","Manual","140,000 miles","Petrol","5","1.4 S 5dr"
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Vauxhall","Astra","2009 (59 reg)","£799","1.4L","Manual","90,000 miles","Petrol","5","1.4i 16v Active 5dr"
+"Audi","A3","2012 (12 reg)","£3,499","Manual","Manual","89,000 miles
+18,127 miles below average","Diesel","5","1.6 TDI Sport Sportback Euro 5 (s/s) 5dr"
+"Audi","A3","2008 (08 reg)","£995","Manual","Manual","127,000 miles","Diesel","5","1.9 TDI Sport Sportback 5dr"
+"Fiat","500","2012 (12 reg)","£1,195","0.9L","Manual","104,000 miles
+34,027 miles above average","Petrol","3","0.9 TwinAir Euro 5 (s/s) 3dr"
+"Vauxhall","Astra","2012 (12 reg)","£1,599","2.0L","Manual","115,101 miles
+13,305 miles above average","Diesel","5","2.0 CDTi ecoFLEX SRi Euro 5 (s/s) 5dr"
+"Renault","Kadjar","2020 (20 reg)","£11,227","1.3L","Manual","50,953 miles
+18,189 miles above average","Petrol","5","1.3 TCe Iconic SUV 5dr Petrol Manual Euro 6 (s/s) (140 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Vauxhall","Grandland X","2019 (19 reg)","£9,059","Manual","Manual","71,771 miles
+28,342 miles above average","Petrol","5","1.2 Turbo GPF Sport Nav (130 ps) - AMBIENT INTERIOR LIGHTING 5dr"
+"Hyundai","i20","2010 (10 reg)","£750","1.2L","Manual","115,000 miles
+36,999 miles above average","Petrol","5","1.2 Comfort Euro 4 5dr"
+"KIA","Sportage","2013 (63 reg)","£3,995","1.7L","Manual","64,000 miles
+23,254 miles below average","Diesel","5","1.7 CRDi EcoDynamics 2 2WD Euro 5 (s/s) 5dr"
+"Citroen","C3","2014 (14 reg)",NA,"1.0L","Manual","66,341 miles
+5,632 miles above average","Petrol","5","1.0 VTi VTR+ Euro 5 5dr"
+"Citroen","C3 Pluriel","2009 (09 reg)","£800","1.4L","Manual","102,000 miles","Petrol","2","1.4i Code 2dr"
+"Nissan","Qashqai","2007 (57 reg)","£777","1.5L","Manual","84,000 miles","Diesel","5","1.5 dCi Tekna 2WD 5dr"
+"Citroen","C1","2009 (09 reg)","£995","1.0L","Manual","58,000 miles","Petrol","3","1.0i VTR Euro 4 3dr"
+"Volvo","V40","2013 (13 reg)","£1,500","1.6L","Manual","159,000 miles
+56,806 miles above average","Diesel","5","1.6 D2 R-Design Euro 5 (s/s) 5dr"
+"Mazda","2","2009 (09 reg)",NA,"1.3L","Manual","66,000 miles","Petrol","5","1.3 TS 5d 74 BHP * ACCIDENT DAMAGED NOT RECORDED *"
+"Vauxhall","Insignia","2011 (61 reg)","£999","Manual","Manual","82,325 miles
+21,592 miles below average","Diesel","5","2.0 CDTi SRi 4WD Euro 5 (s/s) 5dr"
+"Vauxhall","Corsa","2009 (09 reg)","£600","Petrol","Manual","99,978 miles","Petrol","Manual",NA
+"Ford","Mondeo","2012 (62 reg)",NA,"2.0L","Manual","77,880 miles
+22,350 miles below average","Diesel","5","2.0 TDCi Titanium X Sport Hatchback 5dr Diesel Manual Euro 5 (163 ps) NATIONWIDE DELIVERY FROM £99"
+"Ford","Focus","2017 (17 reg)","£8,579","1.5L","Manual","57,283 miles
+1,805 miles below average","Petrol","5","1.5T EcoBoost ST-Line (150 ps) - KEYLESS START - CLIMATE CONTROL - DAB 5dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Ford","Focus","2017 (17 reg)","£8,579","1.5L","Manual","57,283 miles
+1,805 miles below average","Petrol","5","1.5T EcoBoost ST-Line (150 ps) - KEYLESS START - CLIMATE CONTROL - DAB 5dr"
+"SEAT","Ibiza","2008 (08 reg)","£990","Manual","Manual","108,000 miles","Petrol","5","1.4 16v Sportrider 3dr"
+"Hyundai","i20","2011 (11 reg)","£1,999","1.2L","Manual","60,038 miles
+14,451 miles below average","Petrol","3","1.2 Edition Euro 5 3dr"
+"Ford","Fiesta","2009 (59 reg)","£895","Manual","Manual","107,000 miles","Petrol","5","1.4 Zetec 5dr"
+"Volvo","S40","2011 (11 reg)","£695","Manual","Manual","198,900 miles
+105,117 miles above average","Diesel","5","1.6D DRIVe ES Euro 4 (s/s) 4dr"
+"Citroen","DS3","2011 (61 reg)","£1,250","1.6L","Manual","99,696 miles
+5,150 miles above average","Diesel","3","1.6 e-HDi Airdream DStyle Plus 3dr"
+"Nissan","Micra","2002 (52 reg)","£799","Manual","Manual","66,290 miles","Petrol","5","1.0 16v Tempest 3dr"
+"Volkswagen","Golf","2008 (08 reg)","£2,495","Manual","Manual","120,000 miles","Diesel","5","2.0 TDI GT 5dr"
+"Vauxhall","Corsa","2009 (59 reg)","£1,595","Manual","Manual","78,000 miles","Petrol","5","1.2i 16v SXi 3dr"
+"SEAT","Ibiza","2009 (59 reg)","£995","1.6L","Manual","120,610 miles","Petrol","3","1.6 16V Sport Sport Coupe Euro 4 3dr"
+"Volkswagen","Polo","2011 (61 reg)","£2,495","Manual","Manual","101,825 miles
+24,524 miles above average","Petrol","5","1.2 Match Euro 5 3dr"
+"Suzuki","Swift","2008 (08 reg)","£1,195","Manual","Manual","104,093 miles","Petrol","5","1.3 GL Hatchback 5dr Petrol Manual (140 g/km, 91 bhp) SUPER TO DRIVE IDEAL 1ST CAR"
+"Honda","Hr-v","2016 (16 reg)",NA,"1.6L","Manual","50,743 miles
+20,856 miles below average","Diesel","5","1.6 i-DTEC SE SUV 5dr Diesel Manual Euro 6 (s/s) (120 ps) PARKING SENSORS + CRUISE CONTROL"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Vauxhall","Astra GTC","2016 (16 reg)",NA,"1.4L","Manual","34,955 miles
+26,962 miles below average","Petrol","3","1.4i Turbo Sport Coupe 3dr Petrol Manual Euro 6 (s/s) (120 ps) - Cruise Control + Air Conditioning"
+"Ford","KA","2011 (11 reg)","£600","1.2L","Manual","88,000 miles
+17,590 miles above average","Petrol","3","1.2 Edge Hatchback 3dr Petrol Manual Euro 5 (s/s) (69 ps)"
+"Peugeot","208","2015 (15 reg)","£1,490","1.0L","Manual","63,000 miles
+399 miles below average","Petrol","3","1.0 VTi PureTech Active 3dr"
+"SEAT","Ibiza","2009 (09 reg)","£2,199","Manual","Manual","79,000 miles","Petrol","5","1.4 16V Sport Sport Coupe Euro 4 3dr"
+"Renault","Megane","2013 (13 reg)","£1,495","Manual","Manual","101,000 miles
+14,085 miles above average","Diesel","5","1.5 dCi Dynamique TomTom Euro 5 (s/s) 3dr"
+"Ford","Puma","2002 (02 reg)","£400","1.7L","Manual","83,000 miles","Petrol","3","1.7 3dr"
+"Microcar","M8",NA,"£990","2013 (13 reg)",NA,"16,200 miles",NA,NA,NA
+"Volkswagen","Touran","2010 (10 reg)","£1,000","Manual","Manual","83,000 miles
+36,848 miles below average","Diesel","7","1.9 TDI BlueMotion Tech S 5dr (7 Seats)"
+"Vauxhall","Vectra","2006 (06 reg)","£595","1.8L","Manual","75,959 miles","Petrol","5","1.8 VVT Exclusiv 5dr"
+"Jeep","Patriot","2008 (57 reg)","£800","2.0L","Manual","109,006 miles","Diesel","5","2.0 CRD Limited 4x4 5dr"
+"KIA","Ceed","2012 (62 reg)","£2,499","1.6L","Manual","132,000 miles
+35,745 miles above average","Diesel","5","1.6 CRDi EcoDynamics 3 Euro 5 (s/s) 5dr"
+"Vauxhall","Insignia","2010 (60 reg)",NA,"2.0L","Manual","120,000 miles
+15,745 miles above average","Diesel","5","2.0 CDTi Elite Hatchback 5dr Diesel Manual Euro 5 (160 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Volkswagen","E-golf","2020 (70 reg)","£10,531","Hatchback","Automatic","34,590 miles
+9,029 miles above average","Electric","5","35.8kWh e-Golf (136 ps) - DAB - USB AUDIO - SPLIT FOLDING REAR SEATS 5dr"
+"Mazda","Mazda3","2009 (09 reg)","£1,750","Manual","Manual","105,000 miles","Diesel","5","2.2d Sport Euro 5 5dr"
+"Vauxhall","Corsa","2012 (12 reg)","£2,250","1.2L","Manual","68,000 miles
+9,490 miles below average","Petrol","5","1.2 16V SXi Euro 5 5dr (A/C)"
+"Toyota","Celica","2004 (04 reg)","£1,695","1.8L","Manual","122,800 miles","Petrol","3","1.8 VVTL-i T Sport 3dr (leather)"
+"SKODA","Octavia","2011 (61 reg)",NA,"Manual","Manual","147,000 miles
+23,351 miles above average","Diesel","5","2.0 TDI Scout 4WD Euro 5 5dr"
+"Ford","Fiesta","2012 (12 reg)",NA,"1.4L","Manual","70,500 miles
+22,839 miles below average","Diesel","5","1.4 TDCi DPF Zetec 5dr"
+"Nissan","Juke","2013 (13 reg)",NA,"1.5L","Manual","70,969 miles
+22,156 miles below average","Diesel","5","1.5 dCi 8v Visia SUV 5dr Diesel Manual Euro 5 (s/s) (110 ps)"
+"Volkswagen","Scirocco","2009 (59 reg)","£1,500","1.4L","Manual","125,279 miles","Petrol","3","1.4 TSI Hatchback 3dr Petrol Manual Euro 5 (160 ps)"
+"MINI","Hatch","2006 (56 reg)",NA,"Manual","Manual","102,400 miles","Petrol","4","1.6 Cooper Euro 4 3dr"
+"Toyota","Auris","2008 (08 reg)",NA,"2.0L","Manual","138,343 miles","Diesel","5","2.0 D-4D T3 5dr"
+"Vauxhall","Zafira","2013 (13 reg)","£495","Manual","Manual","86,000 miles
+4,028 miles below average","Diesel","7","1.7 CDTi ecoFLEX Design MPV 5dr Diesel Manual Euro 5 (SNav) (125 ps)"
+"Nissan","Juke","2013 (13 reg)",NA,"1.5L","Manual","70,969 miles
+22,156 miles below average","Diesel","5","1.5 dCi 8v Visia SUV 5dr Diesel Manual Euro 5 (s/s) (110 ps)"
+"Volkswagen","E-golf","2020 (70 reg)","£10,531","Hatchback","Automatic","34,590 miles
+9,029 miles above average","Electric","5","35.8kWh e-Golf (136 ps) - DAB - USB AUDIO - SPLIT FOLDING REAR SEATS 5dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Ford","Mondeo","2007 (07 reg)","£495","1.8L","Manual","113,000 miles","Diesel","5","1.8 TDCi Ghia 5dr"
+"Citroen","C3","2013 (62 reg)","£995","Manual","Manual","168,000 miles
+88,610 miles above average","Diesel","5","1.4 HDi VTR+ Euro 5 5dr"
+"Nissan","Qashqai","2016 (16 reg)","£6,750","1.2L","Manual","73,229 miles
+12,547 miles above average","Petrol","5","1.2 DIG-T n-tec 2WD Euro 6 (s/s) 5dr"
+"Fiat","500L","2014 (14 reg)","£500","1.3L","Manual","67,219 miles
+10,099 miles below average","Diesel","5","1.3 MultiJet Pop Star MPW Euro 5 (s/s) 5dr"
+"Vauxhall","Corsa","2012 (62 reg)","£500","1.4L","Manual","120,000 miles
+48,068 miles above average","Petrol","5","1.4 16V SXi Hatchback 5dr Petrol Manual Wide Ratio Euro 5 (A/C) (100 ps)"
+"KIA","Ceed","2010 (10 reg)","£750","1.6L","Manual","89,000 miles
+4,157 miles below average","Petrol","5","1.6 3 Sports Wagon Euro 4 5dr"
+"Renault","Clio","2002 (52 reg)","£1,495","1.5L","Manual","82,000 miles","Diesel","3","1.5 dCi Dynamique + 3dr"
+"Volkswagen","Golf","2008 (58 reg)","£750","1.9L","Manual","119,000 miles","Diesel","5","1.9 TDI Match Hatchback 5dr Diesel Manual (132 g/km, 103 bhp)"
+"Ford","Focus","2009 (59 reg)","£995","Manual","Manual","117,896 miles","Petrol","5","1.6 Zetec Hatchback 5dr Petrol Manual (161 g/km, 99 bhp)"
+"Vauxhall","Corsa","2010 (11 reg)","£500","Manual","Manual","104,033 miles
+13,080 miles above average","Diesel","5","1.3 CDTi ecoFLEX Active 5dr"
+"Volkswagen","Scirocco","2012 (12 reg)","£2,000","2.0L","Manual","167,000 miles
+64,690 miles above average","Diesel","3","2.0 TDI BlueMotion Tech GT Euro 5 (s/s) 3dr"
+"Audi","A4","2021 (21 reg)",NA,"2.0L","Automatic","32,817 miles
+2,134 miles above average","Petrol","4","Black Edition 35 TFSI 150 PS S tronic 2.0 4dr"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Nissan","Note","2009 (09 reg)","£695","1.4L","Manual","137,000 miles","Petrol","5","1.4 16V Acenta Euro 4 5dr"
+"Renault","Megane","2008 (08 reg)","£450","1.9L","Manual","157,000 miles","Diesel","5","1.9 dCi FAP Expression Hatchback 5dr Diesel Manual (145 g/km, 130 bhp)"
+"Mazda","Mazda3","2013 (62 reg)","£2,990","Manual","Manual","84,000 miles
+14,406 miles below average","Diesel","5","1.6d Venture Euro 5 5dr"
+"Volkswagen","Polo","2011 (11 reg)",NA,"1.4L","Manual","93,985 miles
+19,589 miles above average","Petrol","5","1.4 SE Euro 5 5dr"
+"KIA","Picanto","2012 (62 reg)","£1,145","1.0L","Manual","127,000 miles
+62,334 miles above average","Petrol","5","1.0 1 Euro 5 5dr"
+"Citroen","C4","2016 (16 reg)","£1,985","Manual","Manual","102,600 miles
+45,316 miles above average","Petrol","5","1.2 PureTech Feel Euro 6 5dr"
+"Citroen","DS4","2013 (13 reg)","£2,495","1.6L","Manual","102,513 miles
+16,205 miles above average","Diesel","5","1.6 HDi DStyle Euro 5 5dr"
+"Nissan","Almera","2005 (05 reg)","£495","1.5L","Manual","100,000 miles","Petrol","5","1.5 SE 5dr"
+"MINI","Hatch","2010 (10 reg)",NA,"1.4L","Manual","120,000 miles
+36,583 miles above average","Petrol","3","1.4 First Hatchback 3dr Petrol Manual Euro 4 (75 ps) FREE NATIONWIDE 6 MONTH WARRANTY"
+"Renault","Clio","2015 (64 reg)","£2,999","1.5L","Manual","77,000 miles
+3,448 miles below average","Diesel","5","1.5 dCi Dynamique MediaNav Euro 5 (s/s) 5dr"
+"Audi","TT","2010 (10 reg)","£6,995","2.0L","Manual","64,823 miles
+40,907 miles below average","Diesel","3","2.0 TDI S line Special Edition Coupe 3dr Diesel Manual quattro Euro 4 (170 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Audi","A3","2021 (21 reg)","£21,695","Automatic","Automatic","29,597 miles
+107 miles below average","Petrol","5","1.5 TFSI 35 S line Sportback 5dr Petrol S Tronic Euro 6 (s/s) (150 ps)"
+"Vauxhall","Corsa","2011 (11 reg)","£2,475","1.4L","Automatic","111,000 miles
+36,112 miles above average","Petrol","5","1.4 16V SE Auto Euro 5 5dr"
+"Renault","Megane","2013 (62 reg)","£995","1.9L","Manual","102,000 miles
+24,199 miles above average","Diesel","2","1.9 dCi Dynamique TomTom Euro 5 2dr"
+"MINI","Hatch","2003 (52 reg)",NA,"Manual","Manual","165,000 miles","Petrol","4","1.6 Cooper Euro 3 3dr"
+"MINI","Hatch","2010 (10 reg)","£550","1.6L","Manual","84,000 miles
+1,046 miles above average","Petrol","3","1.6 One Hatchback 3dr Petrol Manual Euro 5 (98 ps)"
+"Hyundai","Veloster","2013 (13 reg)","£2,495","1.6L","Manual","86,250 miles
+20,947 miles above average","Petrol","4","1.6 GDi Hatchback 4dr Petrol Manual Euro 5 (140 ps)"
+"Daihatsu","Materia","2008 (08 reg)","£750","1.5L","Manual","33,108 miles","Petrol","5","1.5 5dr"
+"Ford","S-max","2011 (11 reg)",NA,"Manual","Manual","113,384 miles
+19,162 miles above average","Petrol","7","S-Max 1.6T EcoBoost Titanium Euro 5 5dr"
+"Vauxhall","Astra","2009 (59 reg)","£699","Manual","Manual","122,000 miles","Petrol","5","1.6i 16v SXi Sport Hatch 3dr"
+"Nissan","Micra","2003 (03 reg)","£3,499","1.2L","Manual","78,288 miles","Petrol","3","1.2 16v SE Hatchback 3dr Petrol Manual (143 g/km, 79 bhp) DOG CAR! HEAD TURNER!"
+"Volkswagen","Polo","2011 (11 reg)","£3,199","Manual","Manual","98,000 miles
+11,579 miles above average","Petrol","5","1.2 Moda Euro 5 3dr"
+"Vauxhall","Astra GTC","2016 (16 reg)",NA,"1.4L","Manual","34,955 miles
+26,962 miles below average","Petrol","3","1.4i Turbo Sport Coupe 3dr Petrol Manual Euro 6 (s/s) (120 ps) - Cruise Control + Air Conditioning"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Audi","A4","2021 (21 reg)",NA,"2.0L","Automatic","32,817 miles
+2,134 miles above average","Petrol","4","Black Edition 35 TFSI 150 PS S tronic 2.0 4dr"
+"MINI","Hatch","2007 (57 reg)","£650","Manual","Manual","107,057 miles","Petrol","4","1.6 Cooper Hatchback 3dr Petrol Manual Euro 4 (120 ps)"
+"Hyundai","I30","2014 (14 reg)","£2,449","1.6L","Manual","82,800 miles
+712 miles below average","Diesel","5","1.6 CRDi Blue Drive Classic Hatchback 5dr Diesel Manual Euro 5 (s/s) (110 ps) 1 OWNER + WARRANTY WISE WARRANTY"
+"Ford","Mondeo","2008 (08 reg)","£800","2.0L","Manual","106,000 miles","Diesel","5","2.0 TDCi Zetec Hatchback 5dr Diesel Manual (154 g/km, 138 bhp)"
+"MG","MG6","2012 (12 reg)","£1,000","Manual","Manual","75,000 miles
+6,460 miles above average","Petrol","5","1.8 T TSE Magnette Euro 5 4dr"
+"Hyundai","i10","2010 (60 reg)",NA,"Automatic","Automatic","76,256 miles
+13,220 miles above average","Petrol","5","1.2 Comfort Auto Euro 4 5dr"
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"MG","TF","2005 (54 reg)","£950","1.6L","Manual","112,800 miles","Petrol","2","1.6 2dr"
+"Toyota","Auris","2008 (08 reg)","£1,390","1.6L","Manual","112,000 miles","Petrol","5","1.6 VVT-i SR 5dr"
+"Volkswagen","Touran","2011 (11 reg)","£1,495","1.6L","Manual","122,764 miles
+10,202 miles above average","Diesel","5","1.6 TDI S Euro 5 5dr"
+"Mercedes-Benz","C Class","2008 (08 reg)","£1,995","Manual","Manual","131,000 miles","Diesel","5","2.1 C200 CDI Elegance Euro 4 4dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"KIA","Picanto","2005 (05 reg)","£750","1.0L","Manual","87,100 miles","Petrol","5","1.0 GS Hatchback 5dr Petrol Manual (118 g/km, 60 bhp)"
+"KIA","Picanto","2012 (62 reg)","£3,175","Manual","Manual","68,000 miles
+3,334 miles above average","Petrol","5","1.0 1 Euro 5 5dr"
+"Vauxhall","Corsa","2016 (16 reg)","£3,999","Manual","Manual","75,000 miles
+13,639 miles above average","Petrol","5","1.4i ecoFLEX Limited Edition Euro 6 3dr"
+"Peugeot","206","2005 (05 reg)","£795","2.0L","Manual","115,000 miles","Diesel","5","2.0 HDi Sport 5dr"
+"Vauxhall","Corsa","2008 (08 reg)","£1,295","Manual","Manual","99,000 miles","Diesel","5","1.3 CDTi 16v Breeze 3dr"
+"KIA","RIO","2005 (55 reg)","£990","Manual","Manual","77,338 miles","Petrol","5","1.4 GS 5dr"
+"Volkswagen","Polo","2009 (09 reg)","£690","Manual","Manual","72,100 miles","Petrol","5","1.2 Match 3dr"
+"BMW","1 Series","2006 (56 reg)","£550","1.6L","Manual","166,000 miles","Petrol","5","1.6 116i SE Euro 4 5dr"
+"Ford","Focus","2010 (10 reg)","£550","Manual","Manual","79,000 miles
+13,952 miles below average","Petrol","5","1.8 Zetec 5dr"
+"Volkswagen","Golf","2011 (11 reg)","£2,489","1.2L","Manual","96,000 miles
+7,804 miles above average","Petrol","5","1.2 TSI S Euro 5 5dr"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Hyundai","Tucson","2018 (18 reg)",NA,"1.6L","Manual","54,241 miles
+1,439 miles above average","Petrol","5","1.6 GDi Blue Drive SE SUV 5dr Petrol Manual Euro 6 (s/s) (132 ps) HEATED FRONT SEATS+PARKING SENSORS"
+"MG","MG6","2012 (12 reg)","£2,450","Manual","Manual","45,000 miles
+24,503 miles below average","Petrol","5","1.8 T GT SE Euro 5 5dr"
+"Vauxhall","Astra","2013 (13 reg)","£1,295","Manual","Manual","131,000 miles
+35,432 miles above average","Diesel","5","1.7 CDTi ecoFLEX Energy Euro 5 5dr"
+"Saab","9-3","2009 (09 reg)","£495","Manual","Manual","161,000 miles","Diesel","5","1.9 TiD Linear SE Sportwagon Euro 4 5dr"
+"Audi","A4","2008 (08 reg)","£1,295","2.0L","Manual","114,563 miles","Diesel","4","2.0 TDI SE 4dr"
+"Ford","Fiesta","2013 (13 reg)",NA,"1.0L","Manual","89,900 miles
+19,294 miles above average","Petrol","5","1.0 Titanium Euro 5 (s/s) 5dr"
+"Volkswagen","Polo","2010 (10 reg)","£1,999","1.6L","Manual","125,400 miles
+21,163 miles above average","Diesel","5","1.6 TDI SE Euro 5 5dr"
+"Vauxhall","Insignia","2010 (60 reg)",NA,"2.0L","Manual","120,000 miles
+15,745 miles above average","Diesel","5","2.0 CDTi Elite Hatchback 5dr Diesel Manual Euro 5 (160 ps)"
+"Hyundai","i30","2010 (10 reg)","£2,495","Manual","Manual","60,074 miles
+30,600 miles below average","Petrol","5","1.4 Classic Euro 4 5dr"
+"Audi","A5 CONVERTIBLE","2012 (62 reg)","£2,500","1.8L","Manual","117,000 miles
+36,115 miles above average","Petrol","2","1.8 TFSI S LINE S/S 2DR"
+"MINI","Hatch","2013 (62 reg)","£690","1.6L","Manual","98,042 miles
+26,189 miles above average","Petrol","3","1.6 First Euro 5 3dr"
+"Toyota","Auris","2008 (08 reg)",NA,"2.0L","Manual","138,343 miles","Diesel","5","2.0 D-4D T3 5dr"
+"Hyundai","Tucson","2018 (18 reg)",NA,"1.6L","Manual","54,241 miles
+1,439 miles above average","Petrol","5","1.6 GDi Blue Drive SE SUV 5dr Petrol Manual Euro 6 (s/s) (132 ps) HEATED FRONT SEATS+PARKING SENSORS"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Audi","TT","2010 (10 reg)","£6,995","2.0L","Manual","64,823 miles
+40,907 miles below average","Diesel","3","2.0 TDI S line Special Edition Coupe 3dr Diesel Manual quattro Euro 4 (170 ps)"
+"Honda","Cr-v","2007 (07 reg)","£1,500","Manual","Manual","158,030 miles","Diesel","5","2.2 i-CDTi ES 5dr"
+"SKODA","Octavia","2013 (13 reg)","£1,490","2.0L","Manual","149,000 miles
+42,949 miles above average","Diesel","5","2.0 TDI vRS Blackline Euro 5 5dr"
+"SEAT","Ibiza","2015 (64 reg)","£1,599","1.4L","Manual","80,632 miles
+12,157 miles above average","Petrol","3","1.4 Toca Sport Coupe 3dr Petrol Manual Euro 5 (85 ps)"
+"MINI","Hatch","2003 (53 reg)","£399","1.6L","Manual","85,084 miles","Petrol","3","1.6 Cooper Hatchback 3dr Petrol Manual Euro 3 (115 ps)"
+"SKODA","Octavia","2 owners","£1,695","Manual","Diesel",NA,NA,"5","2.0 TDI Elegance Euro 5 (s/s) 5dr"
+"Toyota","Estima",NA,"£950","2006 (06 reg)",NA,"169,000 miles",NA,NA,NA
+"Audi","A3","2012 (12 reg)","£2,395","1.6L","Manual","112,000 miles
+6,284 miles above average","Diesel","5","1.6 TDI S line Sportback Euro 5 (s/s) 5dr"
+"Volvo","V70","2006 (06 reg)","£1,680","2.4L","Automatic","190,912 miles","Diesel","5","2.4 D5 SE 5dr"
+"Nissan","Pixo","2009 (59 reg)","£659","Manual","Manual","80,000 miles","Petrol","4","1.0 Acenta Hatchback 5dr Petrol Manual Euro 5 (68 ps)"
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fiat","Seicento","2002 (51 reg)","£795","Manual","Manual","91,000 miles","Petrol","4","1.1 Sporting 3dr"
+"Vauxhall","Corsa","2011 (11 reg)","£995","1.2L","Manual","98,408 miles
+18,022 miles above average","Petrol","3","1.2 16V Excite Euro 5 3dr"
+"Volvo","960","1992 (K reg)","£750","3.0L","Automatic","130,000 miles","Petrol","5","3.0 5dr"
+"Vauxhall","Corsa","2013 (13 reg)",NA,"1.4L","Manual","101,138 miles
+24,422 miles above average","Petrol","3","1.4 SRI 3d 98 BHP *** FULL SERVICE HISTORY ***"
+"Volkswagen","Golf","2005 (05 reg)","£485","1.4L","Manual","140,000 miles","Petrol","5","1.4 S 5dr"
+"Suzuki","Grand Vitara","2008 (08 reg)","£1,495","1.6L","Manual","85,000 miles","Petrol","3","1.6 VVT + 4WD Euro 4 3dr"
+"Vauxhall","Astra","2009 (59 reg)","£799","1.4L","Manual","90,000 miles","Petrol","5","1.4i 16v Active 5dr"
+"Audi","A3","2012 (12 reg)","£3,499","Manual","Manual","89,000 miles
+18,127 miles below average","Diesel","5","1.6 TDI Sport Sportback Euro 5 (s/s) 5dr"
+"Audi","A3","2008 (08 reg)","£995","Manual","Manual","127,000 miles","Diesel","5","1.9 TDI Sport Sportback 5dr"
+"Fiat","500","2012 (12 reg)","£1,195","0.9L","Manual","104,000 miles
+34,027 miles above average","Petrol","3","0.9 TwinAir Euro 5 (s/s) 3dr"
+"Vauxhall","Astra","2012 (12 reg)","£1,599","2.0L","Manual","115,101 miles
+13,305 miles above average","Diesel","5","2.0 CDTi ecoFLEX SRi Euro 5 (s/s) 5dr"
+"Renault","Kadjar","2020 (20 reg)","£11,227","1.3L","Manual","50,953 miles
+18,189 miles above average","Petrol","5","1.3 TCe Iconic SUV 5dr Petrol Manual Euro 6 (s/s) (140 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Vauxhall","Grandland X","2019 (19 reg)","£9,059","Manual","Manual","71,771 miles
+28,342 miles above average","Petrol","5","1.2 Turbo GPF Sport Nav (130 ps) - AMBIENT INTERIOR LIGHTING 5dr"
+"Hyundai","i20","2010 (10 reg)","£750","1.2L","Manual","115,000 miles
+36,999 miles above average","Petrol","5","1.2 Comfort Euro 4 5dr"
+"KIA","Sportage","2013 (63 reg)","£3,995","1.7L","Manual","64,000 miles
+23,254 miles below average","Diesel","5","1.7 CRDi EcoDynamics 2 2WD Euro 5 (s/s) 5dr"
+"Citroen","C3","2014 (14 reg)",NA,"1.0L","Manual","66,341 miles
+5,632 miles above average","Petrol","5","1.0 VTi VTR+ Euro 5 5dr"
+"Citroen","C3 Pluriel","2009 (09 reg)","£800","1.4L","Manual","102,000 miles","Petrol","2","1.4i Code 2dr"
+"Nissan","Qashqai","2007 (57 reg)","£777","1.5L","Manual","84,000 miles","Diesel","5","1.5 dCi Tekna 2WD 5dr"
+"Citroen","C1","2009 (09 reg)","£995","1.0L","Manual","58,000 miles","Petrol","3","1.0i VTR Euro 4 3dr"
+"Volvo","V40","2013 (13 reg)","£1,500","1.6L","Manual","159,000 miles
+56,806 miles above average","Diesel","5","1.6 D2 R-Design Euro 5 (s/s) 5dr"
+"Mazda","2","2009 (09 reg)",NA,"1.3L","Manual","66,000 miles","Petrol","5","1.3 TS 5d 74 BHP * ACCIDENT DAMAGED NOT RECORDED *"
+"Vauxhall","Insignia","2011 (61 reg)","£999","Manual","Manual","82,325 miles
+21,592 miles below average","Diesel","5","2.0 CDTi SRi 4WD Euro 5 (s/s) 5dr"
+"Vauxhall","Corsa","2009 (09 reg)","£600","Petrol","Manual","99,978 miles","Petrol","Manual",NA
+"Ford","Mondeo","2012 (62 reg)",NA,"2.0L","Manual","77,880 miles
+22,350 miles below average","Diesel","5","2.0 TDCi Titanium X Sport Hatchback 5dr Diesel Manual Euro 5 (163 ps) NATIONWIDE DELIVERY FROM £99"
+"Ford","Focus","2017 (17 reg)","£8,579","1.5L","Manual","57,283 miles
+1,805 miles below average","Petrol","5","1.5T EcoBoost ST-Line (150 ps) - KEYLESS START - CLIMATE CONTROL - DAB 5dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Ford","Focus","2017 (17 reg)","£8,579","1.5L","Manual","57,283 miles
+1,805 miles below average","Petrol","5","1.5T EcoBoost ST-Line (150 ps) - KEYLESS START - CLIMATE CONTROL - DAB 5dr"
+"SEAT","Ibiza","2008 (08 reg)","£990","Manual","Manual","108,000 miles","Petrol","5","1.4 16v Sportrider 3dr"
+"Hyundai","i20","2011 (11 reg)","£1,999","1.2L","Manual","60,038 miles
+14,451 miles below average","Petrol","3","1.2 Edition Euro 5 3dr"
+"Ford","Fiesta","2009 (59 reg)","£895","Manual","Manual","107,000 miles","Petrol","5","1.4 Zetec 5dr"
+"Volvo","S40","2011 (11 reg)","£695","Manual","Manual","198,900 miles
+105,117 miles above average","Diesel","5","1.6D DRIVe ES Euro 4 (s/s) 4dr"
+"Citroen","DS3","2011 (61 reg)","£1,250","1.6L","Manual","99,696 miles
+5,150 miles above average","Diesel","3","1.6 e-HDi Airdream DStyle Plus 3dr"
+"Nissan","Micra","2002 (52 reg)","£799","Manual","Manual","66,290 miles","Petrol","5","1.0 16v Tempest 3dr"
+"Volkswagen","Golf","2008 (08 reg)","£2,495","Manual","Manual","120,000 miles","Diesel","5","2.0 TDI GT 5dr"
+"Vauxhall","Corsa","2009 (59 reg)","£1,595","Manual","Manual","78,000 miles","Petrol","5","1.2i 16v SXi 3dr"
+"SEAT","Ibiza","2009 (59 reg)","£995","1.6L","Manual","120,610 miles","Petrol","3","1.6 16V Sport Sport Coupe Euro 4 3dr"
+"Volkswagen","Polo","2011 (61 reg)","£2,495","Manual","Manual","101,825 miles
+24,524 miles above average","Petrol","5","1.2 Match Euro 5 3dr"
+"Suzuki","Swift","2008 (08 reg)","£1,195","Manual","Manual","104,093 miles","Petrol","5","1.3 GL Hatchback 5dr Petrol Manual (140 g/km, 91 bhp) SUPER TO DRIVE IDEAL 1ST CAR"
+"Honda","Hr-v","2016 (16 reg)",NA,"1.6L","Manual","50,743 miles
+20,856 miles below average","Diesel","5","1.6 i-DTEC SE SUV 5dr Diesel Manual Euro 6 (s/s) (120 ps) PARKING SENSORS + CRUISE CONTROL"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Vauxhall","Astra GTC","2016 (16 reg)",NA,"1.4L","Manual","34,955 miles
+26,962 miles below average","Petrol","3","1.4i Turbo Sport Coupe 3dr Petrol Manual Euro 6 (s/s) (120 ps) - Cruise Control + Air Conditioning"
+"Ford","KA","2011 (11 reg)","£600","1.2L","Manual","88,000 miles
+17,590 miles above average","Petrol","3","1.2 Edge Hatchback 3dr Petrol Manual Euro 5 (s/s) (69 ps)"
+"Peugeot","208","2015 (15 reg)","£1,490","1.0L","Manual","63,000 miles
+399 miles below average","Petrol","3","1.0 VTi PureTech Active 3dr"
+"SEAT","Ibiza","2009 (09 reg)","£2,199","Manual","Manual","79,000 miles","Petrol","5","1.4 16V Sport Sport Coupe Euro 4 3dr"
+"Renault","Megane","2013 (13 reg)","£1,495","Manual","Manual","101,000 miles
+14,085 miles above average","Diesel","5","1.5 dCi Dynamique TomTom Euro 5 (s/s) 3dr"
+"Ford","Puma","2002 (02 reg)","£400","1.7L","Manual","83,000 miles","Petrol","3","1.7 3dr"
+"Microcar","M8",NA,"£990","2013 (13 reg)",NA,"16,200 miles",NA,NA,NA
+"Volkswagen","Touran","2010 (10 reg)","£1,000","Manual","Manual","83,000 miles
+36,848 miles below average","Diesel","7","1.9 TDI BlueMotion Tech S 5dr (7 Seats)"
+"Vauxhall","Vectra","2006 (06 reg)","£595","1.8L","Manual","75,959 miles","Petrol","5","1.8 VVT Exclusiv 5dr"
+"Jeep","Patriot","2008 (57 reg)","£800","2.0L","Manual","109,006 miles","Diesel","5","2.0 CRD Limited 4x4 5dr"
+"KIA","Ceed","2012 (62 reg)","£2,499","1.6L","Manual","132,000 miles
+35,745 miles above average","Diesel","5","1.6 CRDi EcoDynamics 3 Euro 5 (s/s) 5dr"
+"Vauxhall","Insignia","2010 (60 reg)",NA,"2.0L","Manual","120,000 miles
+15,745 miles above average","Diesel","5","2.0 CDTi Elite Hatchback 5dr Diesel Manual Euro 5 (160 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Volkswagen","E-golf","2020 (70 reg)","£10,531","Hatchback","Automatic","34,590 miles
+9,029 miles above average","Electric","5","35.8kWh e-Golf (136 ps) - DAB - USB AUDIO - SPLIT FOLDING REAR SEATS 5dr"
+"Mazda","Mazda3","2009 (09 reg)","£1,750","Manual","Manual","105,000 miles","Diesel","5","2.2d Sport Euro 5 5dr"
+"Vauxhall","Corsa","2012 (12 reg)","£2,250","1.2L","Manual","68,000 miles
+9,490 miles below average","Petrol","5","1.2 16V SXi Euro 5 5dr (A/C)"
+"Toyota","Celica","2004 (04 reg)","£1,695","1.8L","Manual","122,800 miles","Petrol","3","1.8 VVTL-i T Sport 3dr (leather)"
+"SKODA","Octavia","2011 (61 reg)",NA,"Manual","Manual","147,000 miles
+23,351 miles above average","Diesel","5","2.0 TDI Scout 4WD Euro 5 5dr"
+"Ford","Fiesta","2012 (12 reg)",NA,"1.4L","Manual","70,500 miles
+22,839 miles below average","Diesel","5","1.4 TDCi DPF Zetec 5dr"
+"Nissan","Juke","2013 (13 reg)",NA,"1.5L","Manual","70,969 miles
+22,156 miles below average","Diesel","5","1.5 dCi 8v Visia SUV 5dr Diesel Manual Euro 5 (s/s) (110 ps)"
+"Volkswagen","Scirocco","2009 (59 reg)","£1,500","1.4L","Manual","125,279 miles","Petrol","3","1.4 TSI Hatchback 3dr Petrol Manual Euro 5 (160 ps)"
+"MINI","Hatch","2006 (56 reg)",NA,"Manual","Manual","102,400 miles","Petrol","4","1.6 Cooper Euro 4 3dr"
+"Toyota","Auris","2008 (08 reg)",NA,"2.0L","Manual","138,343 miles","Diesel","5","2.0 D-4D T3 5dr"
+"Vauxhall","Zafira","2013 (13 reg)","£495","Manual","Manual","86,000 miles
+4,028 miles below average","Diesel","7","1.7 CDTi ecoFLEX Design MPV 5dr Diesel Manual Euro 5 (SNav) (125 ps)"
+"Nissan","Juke","2013 (13 reg)",NA,"1.5L","Manual","70,969 miles
+22,156 miles below average","Diesel","5","1.5 dCi 8v Visia SUV 5dr Diesel Manual Euro 5 (s/s) (110 ps)"
+"Volkswagen","E-golf","2020 (70 reg)","£10,531","Hatchback","Automatic","34,590 miles
+9,029 miles above average","Electric","5","35.8kWh e-Golf (136 ps) - DAB - USB AUDIO - SPLIT FOLDING REAR SEATS 5dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Ford","Mondeo","2007 (07 reg)","£495","1.8L","Manual","113,000 miles","Diesel","5","1.8 TDCi Ghia 5dr"
+"Citroen","C3","2013 (62 reg)","£995","Manual","Manual","168,000 miles
+88,610 miles above average","Diesel","5","1.4 HDi VTR+ Euro 5 5dr"
+"Nissan","Qashqai","2016 (16 reg)","£6,750","1.2L","Manual","73,229 miles
+12,547 miles above average","Petrol","5","1.2 DIG-T n-tec 2WD Euro 6 (s/s) 5dr"
+"Fiat","500L","2014 (14 reg)","£500","1.3L","Manual","67,219 miles
+10,099 miles below average","Diesel","5","1.3 MultiJet Pop Star MPW Euro 5 (s/s) 5dr"
+"Vauxhall","Corsa","2012 (62 reg)","£500","1.4L","Manual","120,000 miles
+48,068 miles above average","Petrol","5","1.4 16V SXi Hatchback 5dr Petrol Manual Wide Ratio Euro 5 (A/C) (100 ps)"
+"KIA","Ceed","2010 (10 reg)","£750","1.6L","Manual","89,000 miles
+4,157 miles below average","Petrol","5","1.6 3 Sports Wagon Euro 4 5dr"
+"Renault","Clio","2002 (52 reg)","£1,495","1.5L","Manual","82,000 miles","Diesel","3","1.5 dCi Dynamique + 3dr"
+"Volkswagen","Golf","2008 (58 reg)","£750","1.9L","Manual","119,000 miles","Diesel","5","1.9 TDI Match Hatchback 5dr Diesel Manual (132 g/km, 103 bhp)"
+"Ford","Focus","2009 (59 reg)","£995","Manual","Manual","117,896 miles","Petrol","5","1.6 Zetec Hatchback 5dr Petrol Manual (161 g/km, 99 bhp)"
+"Vauxhall","Corsa","2010 (11 reg)","£500","Manual","Manual","104,033 miles
+13,080 miles above average","Diesel","5","1.3 CDTi ecoFLEX Active 5dr"
+"Volkswagen","Scirocco","2012 (12 reg)","£2,000","2.0L","Manual","167,000 miles
+64,690 miles above average","Diesel","3","2.0 TDI BlueMotion Tech GT Euro 5 (s/s) 3dr"
+"Audi","A4","2021 (21 reg)",NA,"2.0L","Automatic","32,817 miles
+2,134 miles above average","Petrol","4","Black Edition 35 TFSI 150 PS S tronic 2.0 4dr"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Nissan","Note","2009 (09 reg)","£695","1.4L","Manual","137,000 miles","Petrol","5","1.4 16V Acenta Euro 4 5dr"
+"Renault","Megane","2008 (08 reg)","£450","1.9L","Manual","157,000 miles","Diesel","5","1.9 dCi FAP Expression Hatchback 5dr Diesel Manual (145 g/km, 130 bhp)"
+"Mazda","Mazda3","2013 (62 reg)","£2,990","Manual","Manual","84,000 miles
+14,406 miles below average","Diesel","5","1.6d Venture Euro 5 5dr"
+"Volkswagen","Polo","2011 (11 reg)",NA,"1.4L","Manual","93,985 miles
+19,589 miles above average","Petrol","5","1.4 SE Euro 5 5dr"
+"KIA","Picanto","2012 (62 reg)","£1,145","1.0L","Manual","127,000 miles
+62,334 miles above average","Petrol","5","1.0 1 Euro 5 5dr"
+"Citroen","C4","2016 (16 reg)","£1,985","Manual","Manual","102,600 miles
+45,316 miles above average","Petrol","5","1.2 PureTech Feel Euro 6 5dr"
+"Citroen","DS4","2013 (13 reg)","£2,495","1.6L","Manual","102,513 miles
+16,205 miles above average","Diesel","5","1.6 HDi DStyle Euro 5 5dr"
+"Nissan","Almera","2005 (05 reg)","£495","1.5L","Manual","100,000 miles","Petrol","5","1.5 SE 5dr"
+"MINI","Hatch","2010 (10 reg)",NA,"1.4L","Manual","120,000 miles
+36,583 miles above average","Petrol","3","1.4 First Hatchback 3dr Petrol Manual Euro 4 (75 ps) FREE NATIONWIDE 6 MONTH WARRANTY"
+"Renault","Clio","2015 (64 reg)","£2,999","1.5L","Manual","77,000 miles
+3,448 miles below average","Diesel","5","1.5 dCi Dynamique MediaNav Euro 5 (s/s) 5dr"
+"Audi","TT","2010 (10 reg)","£6,995","2.0L","Manual","64,823 miles
+40,907 miles below average","Diesel","3","2.0 TDI S line Special Edition Coupe 3dr Diesel Manual quattro Euro 4 (170 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Audi","A3","2021 (21 reg)","£21,695","Automatic","Automatic","29,597 miles
+107 miles below average","Petrol","5","1.5 TFSI 35 S line Sportback 5dr Petrol S Tronic Euro 6 (s/s) (150 ps)"
+"Vauxhall","Corsa","2011 (11 reg)","£2,475","1.4L","Automatic","111,000 miles
+36,112 miles above average","Petrol","5","1.4 16V SE Auto Euro 5 5dr"
+"Renault","Megane","2013 (62 reg)","£995","1.9L","Manual","102,000 miles
+24,199 miles above average","Diesel","2","1.9 dCi Dynamique TomTom Euro 5 2dr"
+"MINI","Hatch","2003 (52 reg)",NA,"Manual","Manual","165,000 miles","Petrol","4","1.6 Cooper Euro 3 3dr"
+"MINI","Hatch","2010 (10 reg)","£550","1.6L","Manual","84,000 miles
+1,046 miles above average","Petrol","3","1.6 One Hatchback 3dr Petrol Manual Euro 5 (98 ps)"
+"Hyundai","Veloster","2013 (13 reg)","£2,495","1.6L","Manual","86,250 miles
+20,947 miles above average","Petrol","4","1.6 GDi Hatchback 4dr Petrol Manual Euro 5 (140 ps)"
+"Daihatsu","Materia","2008 (08 reg)","£750","1.5L","Manual","33,108 miles","Petrol","5","1.5 5dr"
+"Ford","S-max","2011 (11 reg)",NA,"Manual","Manual","113,384 miles
+19,162 miles above average","Petrol","7","S-Max 1.6T EcoBoost Titanium Euro 5 5dr"
+"Vauxhall","Astra","2009 (59 reg)","£699","Manual","Manual","122,000 miles","Petrol","5","1.6i 16v SXi Sport Hatch 3dr"
+"Nissan","Micra","2003 (03 reg)","£3,499","1.2L","Manual","78,288 miles","Petrol","3","1.2 16v SE Hatchback 3dr Petrol Manual (143 g/km, 79 bhp) DOG CAR! HEAD TURNER!"
+"Volkswagen","Polo","2011 (11 reg)","£3,199","Manual","Manual","98,000 miles
+11,579 miles above average","Petrol","5","1.2 Moda Euro 5 3dr"
+"Vauxhall","Astra GTC","2016 (16 reg)",NA,"1.4L","Manual","34,955 miles
+26,962 miles below average","Petrol","3","1.4i Turbo Sport Coupe 3dr Petrol Manual Euro 6 (s/s) (120 ps) - Cruise Control + Air Conditioning"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Audi","A4","2021 (21 reg)",NA,"2.0L","Automatic","32,817 miles
+2,134 miles above average","Petrol","4","Black Edition 35 TFSI 150 PS S tronic 2.0 4dr"
+"MINI","Hatch","2007 (57 reg)","£650","Manual","Manual","107,057 miles","Petrol","4","1.6 Cooper Hatchback 3dr Petrol Manual Euro 4 (120 ps)"
+"Hyundai","I30","2014 (14 reg)","£2,449","1.6L","Manual","82,800 miles
+712 miles below average","Diesel","5","1.6 CRDi Blue Drive Classic Hatchback 5dr Diesel Manual Euro 5 (s/s) (110 ps) 1 OWNER + WARRANTY WISE WARRANTY"
+"Ford","Mondeo","2008 (08 reg)","£800","2.0L","Manual","106,000 miles","Diesel","5","2.0 TDCi Zetec Hatchback 5dr Diesel Manual (154 g/km, 138 bhp)"
+"MG","MG6","2012 (12 reg)","£1,000","Manual","Manual","75,000 miles
+6,460 miles above average","Petrol","5","1.8 T TSE Magnette Euro 5 4dr"
+"Hyundai","i10","2010 (60 reg)",NA,"Automatic","Automatic","76,256 miles
+13,220 miles above average","Petrol","5","1.2 Comfort Auto Euro 4 5dr"
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"MG","TF","2005 (54 reg)","£950","1.6L","Manual","112,800 miles","Petrol","2","1.6 2dr"
+"Toyota","Auris","2008 (08 reg)","£1,390","1.6L","Manual","112,000 miles","Petrol","5","1.6 VVT-i SR 5dr"
+"Volkswagen","Touran","2011 (11 reg)","£1,495","1.6L","Manual","122,764 miles
+10,202 miles above average","Diesel","5","1.6 TDI S Euro 5 5dr"
+"Mercedes-Benz","C Class","2008 (08 reg)","£1,995","Manual","Manual","131,000 miles","Diesel","5","2.1 C200 CDI Elegance Euro 4 4dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"KIA","Picanto","2005 (05 reg)","£750","1.0L","Manual","87,100 miles","Petrol","5","1.0 GS Hatchback 5dr Petrol Manual (118 g/km, 60 bhp)"
+"KIA","Picanto","2012 (62 reg)","£3,175","Manual","Manual","68,000 miles
+3,334 miles above average","Petrol","5","1.0 1 Euro 5 5dr"
+"Vauxhall","Corsa","2016 (16 reg)","£3,999","Manual","Manual","75,000 miles
+13,639 miles above average","Petrol","5","1.4i ecoFLEX Limited Edition Euro 6 3dr"
+"Peugeot","206","2005 (05 reg)","£795","2.0L","Manual","115,000 miles","Diesel","5","2.0 HDi Sport 5dr"
+"Vauxhall","Corsa","2008 (08 reg)","£1,295","Manual","Manual","99,000 miles","Diesel","5","1.3 CDTi 16v Breeze 3dr"
+"KIA","RIO","2005 (55 reg)","£990","Manual","Manual","77,338 miles","Petrol","5","1.4 GS 5dr"
+"Volkswagen","Polo","2009 (09 reg)","£690","Manual","Manual","72,100 miles","Petrol","5","1.2 Match 3dr"
+"BMW","1 Series","2006 (56 reg)","£550","1.6L","Manual","166,000 miles","Petrol","5","1.6 116i SE Euro 4 5dr"
+"Ford","Focus","2010 (10 reg)","£550","Manual","Manual","79,000 miles
+13,952 miles below average","Petrol","5","1.8 Zetec 5dr"
+"Volkswagen","Golf","2011 (11 reg)","£2,489","1.2L","Manual","96,000 miles
+7,804 miles above average","Petrol","5","1.2 TSI S Euro 5 5dr"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Hyundai","Tucson","2018 (18 reg)",NA,"1.6L","Manual","54,241 miles
+1,439 miles above average","Petrol","5","1.6 GDi Blue Drive SE SUV 5dr Petrol Manual Euro 6 (s/s) (132 ps) HEATED FRONT SEATS+PARKING SENSORS"
+"MG","MG6","2012 (12 reg)","£2,450","Manual","Manual","45,000 miles
+24,503 miles below average","Petrol","5","1.8 T GT SE Euro 5 5dr"
+"Vauxhall","Astra","2013 (13 reg)","£1,295","Manual","Manual","131,000 miles
+35,432 miles above average","Diesel","5","1.7 CDTi ecoFLEX Energy Euro 5 5dr"
+"Saab","9-3","2009 (09 reg)","£495","Manual","Manual","161,000 miles","Diesel","5","1.9 TiD Linear SE Sportwagon Euro 4 5dr"
+"Audi","A4","2008 (08 reg)","£1,295","2.0L","Manual","114,563 miles","Diesel","4","2.0 TDI SE 4dr"
+"Ford","Fiesta","2013 (13 reg)",NA,"1.0L","Manual","89,900 miles
+19,294 miles above average","Petrol","5","1.0 Titanium Euro 5 (s/s) 5dr"
+"Volkswagen","Polo","2010 (10 reg)","£1,999","1.6L","Manual","125,400 miles
+21,163 miles above average","Diesel","5","1.6 TDI SE Euro 5 5dr"
+"Vauxhall","Insignia","2010 (60 reg)",NA,"2.0L","Manual","120,000 miles
+15,745 miles above average","Diesel","5","2.0 CDTi Elite Hatchback 5dr Diesel Manual Euro 5 (160 ps)"
+"Hyundai","i30","2010 (10 reg)","£2,495","Manual","Manual","60,074 miles
+30,600 miles below average","Petrol","5","1.4 Classic Euro 4 5dr"
+"Audi","A5 CONVERTIBLE","2012 (62 reg)","£2,500","1.8L","Manual","117,000 miles
+36,115 miles above average","Petrol","2","1.8 TFSI S LINE S/S 2DR"
+"MINI","Hatch","2013 (62 reg)","£690","1.6L","Manual","98,042 miles
+26,189 miles above average","Petrol","3","1.6 First Euro 5 3dr"
+"Toyota","Auris","2008 (08 reg)",NA,"2.0L","Manual","138,343 miles","Diesel","5","2.0 D-4D T3 5dr"
+"Hyundai","Tucson","2018 (18 reg)",NA,"1.6L","Manual","54,241 miles
+1,439 miles above average","Petrol","5","1.6 GDi Blue Drive SE SUV 5dr Petrol Manual Euro 6 (s/s) (132 ps) HEATED FRONT SEATS+PARKING SENSORS"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Audi","TT","2010 (10 reg)","£6,995","2.0L","Manual","64,823 miles
+40,907 miles below average","Diesel","3","2.0 TDI S line Special Edition Coupe 3dr Diesel Manual quattro Euro 4 (170 ps)"
+"Honda","Cr-v","2007 (07 reg)","£1,500","Manual","Manual","158,030 miles","Diesel","5","2.2 i-CDTi ES 5dr"
+"SKODA","Octavia","2013 (13 reg)","£1,490","2.0L","Manual","149,000 miles
+42,949 miles above average","Diesel","5","2.0 TDI vRS Blackline Euro 5 5dr"
+"SEAT","Ibiza","2015 (64 reg)","£1,599","1.4L","Manual","80,632 miles
+12,157 miles above average","Petrol","3","1.4 Toca Sport Coupe 3dr Petrol Manual Euro 5 (85 ps)"
+"MINI","Hatch","2003 (53 reg)","£399","1.6L","Manual","85,084 miles","Petrol","3","1.6 Cooper Hatchback 3dr Petrol Manual Euro 3 (115 ps)"
+"SKODA","Octavia","2 owners","£1,695","Manual","Diesel",NA,NA,"5","2.0 TDI Elegance Euro 5 (s/s) 5dr"
+"Toyota","Estima",NA,"£950","2006 (06 reg)",NA,"169,000 miles",NA,NA,NA
+"Audi","A3","2012 (12 reg)","£2,395","1.6L","Manual","112,000 miles
+6,284 miles above average","Diesel","5","1.6 TDI S line Sportback Euro 5 (s/s) 5dr"
+"Volvo","V70","2006 (06 reg)","£1,680","2.4L","Automatic","190,912 miles","Diesel","5","2.4 D5 SE 5dr"
+"Nissan","Pixo","2009 (59 reg)","£659","Manual","Manual","80,000 miles","Petrol","4","1.0 Acenta Hatchback 5dr Petrol Manual Euro 5 (68 ps)"
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Suzuki","Ignis","2003 (03 reg)","£450","1.3L","Manual","135,000 miles","Petrol","5","1.3 GL 5dr"
+"Vauxhall","Vectra","2008 (08 reg)","£1,395","1.8L","Manual","59,000 miles","Petrol","5","1.8 VVT Exclusiv 5dr"
+"Vauxhall","Insignia","2015 (64 reg)","£1,199","2.0L","Manual","170,000 miles
+72,025 miles above average","Diesel","5","2.0 CDTi ecoFLEX Design Nav Euro 5 (s/s) 5dr"
+"Citroen","C2","2005 (55 reg)","£650","1.4L","Manual","121,138 miles","Petrol","3","1.4 i Furio 3dr"
+"Toyota","Yaris","2008 (08 reg)","£995","1.3L","Manual","133,000 miles","Petrol","5","1.3 VVT-i TR 5dr"
+"Fiat","Punto","2002 (52 reg)","£799","1.2L","Manual","51,320 miles","Petrol","3","1.2 Active Sport Hatchback 3dr Petrol Manual (136 g/km, 59 bhp)"
+"Peugeot","306","2000 (W reg)","£1,119","1.6L","Manual","111,900 miles","Petrol","5","1.6 Meridian 5dr"
+"Volkswagen","Touran","2004 (54 reg)","£995","1.9L","Manual","123,000 miles","Diesel","5","1.9 TDI PD S 5dr (7 Seats)"
+"Vauxhall","Antara","2013 (13 reg)",NA,"2.2L","Manual","88,670 miles
+4,352 miles above average","Diesel","5","2.2 CDTi Diamond SUV 5dr Diesel Manual 2WD Euro 5 (s/s) (163 ps) *** PX CLEARANCE ***"
+"Ford","KA","2010 (60 reg)","£899","Manual","Manual","79,125 miles
+8,479 miles above average","Petrol","4","1.2 Zetec Euro 4 3dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Vauxhall","Corsa","2016 (16 reg)","£4,700","1.4L","Manual","65,497 miles
+4,185 miles above average","Petrol","3","1.4 Corsa SRI ecoFLEX 3dr"
+"MINI","Clubman","2007 (57 reg)","£1,995","1.6L","Manual","94,000 miles","Petrol","5","1.6 Cooper S Euro 4 5dr"
+"Vauxhall","Cavalier","1986 (D reg)","£1,250","Convertible","Automatic","79,000 miles","Petrol","Automatic","1.8i Convertible 2dr Petrol Automatic (115 bhp)"
+"Suzuki","Swift","2012 (62 reg)","£1,595","Manual","Manual","131,676 miles
+50,473 miles above average","Diesel","5","1.3 DDiS SZ3 Euro 5 5dr"
+"Jeep","Patriot","2010 (10 reg)","£999","2.0L","Manual","118,000 miles
+16,475 miles above average","Diesel","5","2.0 CRD Sport SUV 5dr Diesel Manual 4x4 (180 g/km, 138 bhp)"
+"Citroen","C4","2005 (05 reg)","£1,000","Manual","Manual","135,000 miles","Diesel","5","1.6 HDi 16V SX 5dr"
+"Vauxhall","Insignia","2011 (11 reg)","£1,995","Manual","Manual","130,000 miles
+26,500 miles above average","Diesel","5","2.0 CDTi SE 4WD Euro 5 5dr"
+"Peugeot","406","2003 (03 reg)",NA,"Manual","Manual","99,000 miles","Diesel","5","2.0 HDi Rapier 4dr (a/c)"
+"Ford","Mondeo","2012 (62 reg)",NA,"2.0L","Manual","77,880 miles
+22,350 miles below average","Diesel","5","2.0 TDCi Titanium X Sport Hatchback 5dr Diesel Manual Euro 5 (163 ps) NATIONWIDE DELIVERY FROM £99"
+"Ford","C-max","2011 (11 reg)","£395","2.0L","Automatic","105,000 miles
+7,926 miles above average","Diesel","5","2.0 TDCi Titanium MPV 5dr Diesel Powershift Euro 5 (140 ps)"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Peugeot","308","2008 (08 reg)","£595","1.6L","Manual","89,000 miles","Petrol","5","1.6 VTi Sport 5dr"
+"Citroen","AX","1993 (L reg)","£500","1.0L","Manual","68,000 miles","Petrol","3","1.0 Debut Hatchback 3dr Petrol Manual (45 bhp)"
+"SEAT","Ibiza","2012 (62 reg)","£2,000","1.2L","Manual","110,252 miles
+26,106 miles above average","Petrol","3","1.2 S Sport Coupe 3dr Petrol Manual Euro 5 AC (70 ps)"
+"Ford","Fiesta","2012 (12 reg)","£1,995","1.3L","Manual","95,000 miles
+21,169 miles above average","Petrol","3","1.25 Zetec Hatchback 3dr Petrol Manual (129 g/km, 81 bhp)"
+"Volkswagen","Beetle","2007",NA,"1.6L","Manual","88,000 miles","Petrol","3","1.6 Luna Euro 4 3dr"
+"Fiat","Punto","2003 (03 reg)","£750","Manual","Manual","93,000 miles","Petrol","5","1.2 Active 5dr"
+"SKODA","Superb","2012 (12 reg)","£2,999","Manual","Manual","110,000 miles
+3,999 miles above average","Diesel","5","1.6 TDI Elegance GreenLine II Euro 5 (s/s) 5dr"
+"Vauxhall","Corsa","2015 (65 reg)","£1,995","Manual","Manual","90,000 miles
+29,521 miles above average","Petrol","5","1.2i Energy Euro 6 3dr (a/c)"
+"Renault","Megane","2010 (10 reg)","£1,999","1.5L","Manual","95,000 miles
+11,795 miles below average","Diesel","3","1.5 dCi Dynamique TomTom Euro 4 3dr"
+"SEAT","Ibiza","2010 (59 reg)","£3,995","1.6L","Automatic","88,000 miles","Petrol","3","1.6 16V Sport Sport Coupe DSG Euro 4 3dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Honda","Hr-v","2016 (16 reg)",NA,"1.6L","Manual","50,743 miles
+20,856 miles below average","Diesel","5","1.6 i-DTEC SE SUV 5dr Diesel Manual Euro 6 (s/s) (120 ps) PARKING SENSORS + CRUISE CONTROL"
+"Ford","Streetka","2005 (55 reg)","£995","1.6L","Manual","84,447 miles","Petrol","2","1.6 Winter II 2dr"
+"Fiat","Punto","2013 (13 reg)","£1,290","0.9L","Manual","99,000 miles
+27,037 miles above average","Petrol","3","0.9 TwinAir Hatchback 3dr Petrol Euro 5 (s/s) (85 bhp)"
+"Suzuki","Swift","2009 (09 reg)","£995","Manual","Manual","80,454 miles","Petrol","4","1.3 GL 3dr"
+"KIA","Sportage","2015 (65 reg)","£2,750","1.7L","Manual","110,200 miles
+31,702 miles above average","Diesel","5","1.7 CRDi EcoDynamics 2 SUV 5dr Diesel Manual 2WD Euro 6 (s/s) (114 bhp)"
+"Renault","Megane","2006 (56 reg)","£600","1.6L","Manual","83,000 miles","Petrol","2","1.6 VVT Dynamique Convertible 2dr Petrol Manual (166 g/km, 111 bhp)"
+"Honda","Jazz","2008 (58 reg)","£999","1.4L","Manual","92,000 miles","Petrol","5","1.4 i-DSI SE 5dr"
+"SEAT","Ibiza","2009 (09 reg)","£1,495","Manual","Manual","168,956 miles","Petrol","5","1.4 16V SE Euro 4 5dr"
+"Vauxhall","Corsa","2012 (12 reg)","£1,550","1.4L","Manual","99,000 miles
+15,891 miles above average","Petrol","3","1.4 16V SRi Euro 5 3dr"
+"Peugeot","207","2006 (06 reg)","£995","1.6L","Manual","103,000 miles","Diesel","5","1.6 HDi SE Hatchback 5dr Diesel Manual (120 g/km, 90 bhp)"
+"BMW","1 Series","2012 (12 reg)","£4,995","1.6L","Manual","65,000 miles
+16,767 miles below average","Petrol","5","1.6 116i Sport Euro 5 (s/s) 5dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fiat","Seicento","2002 (51 reg)","£795","Manual","Manual","91,000 miles","Petrol","4","1.1 Sporting 3dr"
+"Vauxhall","Corsa","2011 (11 reg)","£995","1.2L","Manual","98,408 miles
+18,022 miles above average","Petrol","3","1.2 16V Excite Euro 5 3dr"
+"Volvo","960","1992 (K reg)","£750","3.0L","Automatic","130,000 miles","Petrol","5","3.0 5dr"
+"Vauxhall","Corsa","2013 (13 reg)",NA,"1.4L","Manual","101,138 miles
+24,422 miles above average","Petrol","3","1.4 SRI 3d 98 BHP *** FULL SERVICE HISTORY ***"
+"Volkswagen","Golf","2005 (05 reg)","£485","1.4L","Manual","140,000 miles","Petrol","5","1.4 S 5dr"
+"Suzuki","Grand Vitara","2008 (08 reg)","£1,495","1.6L","Manual","85,000 miles","Petrol","3","1.6 VVT + 4WD Euro 4 3dr"
+"Vauxhall","Astra","2009 (59 reg)","£799","1.4L","Manual","90,000 miles","Petrol","5","1.4i 16v Active 5dr"
+"Audi","A3","2012 (12 reg)","£3,499","Manual","Manual","89,000 miles
+18,127 miles below average","Diesel","5","1.6 TDI Sport Sportback Euro 5 (s/s) 5dr"
+"Audi","A3","2008 (08 reg)","£995","Manual","Manual","127,000 miles","Diesel","5","1.9 TDI Sport Sportback 5dr"
+"Fiat","500","2012 (12 reg)","£1,195","0.9L","Manual","104,000 miles
+34,027 miles above average","Petrol","3","0.9 TwinAir Euro 5 (s/s) 3dr"
+"Vauxhall","Astra","2012 (12 reg)","£1,599","2.0L","Manual","115,101 miles
+13,305 miles above average","Diesel","5","2.0 CDTi ecoFLEX SRi Euro 5 (s/s) 5dr"
+"Renault","Kadjar","2020 (20 reg)","£11,227","1.3L","Manual","50,953 miles
+18,189 miles above average","Petrol","5","1.3 TCe Iconic SUV 5dr Petrol Manual Euro 6 (s/s) (140 ps)"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Vauxhall","Grandland X","2019 (19 reg)","£9,059","Manual","Manual","71,771 miles
+28,342 miles above average","Petrol","5","1.2 Turbo GPF Sport Nav (130 ps) - AMBIENT INTERIOR LIGHTING 5dr"
+"Hyundai","i20","2010 (10 reg)","£750","1.2L","Manual","115,000 miles
+36,999 miles above average","Petrol","5","1.2 Comfort Euro 4 5dr"
+"KIA","Sportage","2013 (63 reg)","£3,995","1.7L","Manual","64,000 miles
+23,254 miles below average","Diesel","5","1.7 CRDi EcoDynamics 2 2WD Euro 5 (s/s) 5dr"
+"Citroen","C3","2014 (14 reg)",NA,"1.0L","Manual","66,341 miles
+5,632 miles above average","Petrol","5","1.0 VTi VTR+ Euro 5 5dr"
+"Citroen","C3 Pluriel","2009 (09 reg)","£800","1.4L","Manual","102,000 miles","Petrol","2","1.4i Code 2dr"
+"Nissan","Qashqai","2007 (57 reg)","£777","1.5L","Manual","84,000 miles","Diesel","5","1.5 dCi Tekna 2WD 5dr"
+"Citroen","C1","2009 (09 reg)","£995","1.0L","Manual","58,000 miles","Petrol","3","1.0i VTR Euro 4 3dr"
+"Volvo","V40","2013 (13 reg)","£1,500","1.6L","Manual","159,000 miles
+56,806 miles above average","Diesel","5","1.6 D2 R-Design Euro 5 (s/s) 5dr"
+"Mazda","2","2009 (09 reg)",NA,"1.3L","Manual","66,000 miles","Petrol","5","1.3 TS 5d 74 BHP * ACCIDENT DAMAGED NOT RECORDED *"
+"Vauxhall","Insignia","2011 (61 reg)","£999","Manual","Manual","82,325 miles
+21,592 miles below average","Diesel","5","2.0 CDTi SRi 4WD Euro 5 (s/s) 5dr"
+"Vauxhall","Corsa","2009 (09 reg)","£600","Petrol","Manual","99,978 miles","Petrol","Manual",NA
+"Ford","Mondeo","2012 (62 reg)",NA,"2.0L","Manual","77,880 miles
+22,350 miles below average","Diesel","5","2.0 TDCi Titanium X Sport Hatchback 5dr Diesel Manual Euro 5 (163 ps) NATIONWIDE DELIVERY FROM £99"
+"Ford","Focus","2017 (17 reg)","£8,579","1.5L","Manual","57,283 miles
+1,805 miles below average","Petrol","5","1.5T EcoBoost ST-Line (150 ps) - KEYLESS START - CLIMATE CONTROL - DAB 5dr"
+NA,NA,NA,NA,"5",NA,NA,NA,NA,NA
+"Ford","Focus","2017 (17 reg)","£8,579","1.5L","Manual","57,283 miles
+1,805 miles below average","Petrol","5","1.5T EcoBoost ST-Line (150 ps) - KEYLESS START - CLIMATE CONTROL - DAB 5dr"
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hyundai","i20","2011 (11 reg)","£1,999","1.2L","Manual","60,038 miles
+14,451 miles below average","Petrol","3","1.2 Edition Euro 5 3dr"
+"Ford","Fiesta","2009 (59 reg)","£895","Manual","Manual","107,000 miles","Petrol","5","1.4 Zetec 5dr"
+"Volvo","S40","2011 (11 reg)","£695","Manual","Manual","198,900 miles
+105,117 miles above average","Diesel","5","1.6D DRIVe ES Euro 4 (s/s) 4dr"
+"Citroen","DS3","2011 (61 reg)","£1,250","1.6L","Manual","99,696 miles
+5,150 miles above average","Diesel","3","1.6 e-HDi Airdream DStyle Plus 3dr"
+"Nissan","Micra","2002 (52 reg)","£799","Manual","Manual","66,290 miles","Petrol","5","1.0 16v Tempest 3dr"
+"Volkswagen","Golf","2008 (08 reg)","£2,495","Manual","Manual","120,000 miles","Diesel","5","2.0 TDI GT 5dr"
+"Vauxhall","Corsa","2009 (59 reg)","£1,595","Manual","Manual","78,000 miles","Petrol","5","1.2i 16v SXi 3dr"
+"SEAT","Ibiza","2009 (59 reg)","£995","1.6L","Manual","120,610 miles","Petrol","3","1.6 16V Sport Sport Coupe Euro 4 3dr"
+"Volkswagen","Polo","2011 (61 reg)","£2,495","Manual","Manual","101,825 miles
+24,524 miles above average","Petrol","5","1.2 Match Euro 5 3dr"
+"Suzuki","Swift","2008 (08 reg)","£1,195","Manual","Manual","104,093 miles","Petrol","5","1.3 GL Hatchback 5dr Petrol Manual (140 g/km, 91 bhp) SUPER TO DRIVE IDEAL 1ST CAR"
+"Honda","Hr-v","2016 (16 reg)",NA,"1.6L","Manual","50,743 miles
+20,856 miles below average","Diesel","5","1.6 i-DTEC SE SUV 5dr Diesel Manual Euro 6 (s/s) (120 ps) PARKING SENSORS + CRUISE CONTROL"
+NA,NA,NA,NA,"Automatic",NA,NA,NA,"5",NA
+"Vauxhall","Astra GTC","2016 (16 reg)",NA,"1.4L","Manual","34,955 miles
+26,962 miles below average","Petrol","3","1.4i Turbo Sport Coupe 3dr Petrol Manual Euro 6 (s/s) (120 ps) - Cruise Control + Air Conditioning"
+"Ford","KA","2011 (11 reg)","£600","1.2L","Manual","88,000 miles
+17,590 miles above average","Petrol","3","1.2 Edge Hatchback 3dr Petrol Manual Euro 5 (s/s) (69 ps)"
+"Peugeot","208","2015 (15 reg)","£1,490","1.0L","Manual","63,000 miles
+399 miles below average","Petrol","3","1.0 VTi PureTech Active 3dr"
+"SEAT","Ibiza","2009 (09 reg)","£2,199","Manual","Manual","79,000 miles","Petrol","5","1.4 16V Sport Sport Coupe Euro 4 3dr"
+"Renault","Megane","2013 (13 reg)","£1,495","Manual","Manual","101,000 miles
+14,085 miles above average","Diesel","5","1.5 dCi Dynamique TomTom Euro 5 (s/s) 3dr"
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Microcar","M8",NA,"£990","2013 (13 reg)",NA,"16,200 miles",NA,NA,NA
+"Volkswagen","Touran","2010 (10 reg)","£1,000","Manual","Manual","83,000 miles
+36,848 miles below average","Diesel","7","1.9 TDI BlueMotion Tech S 5dr (7 Seats)"
+"Vauxhall","Vectra","2006 (06 reg)","£595","1.8L","Manual","75,959 miles","Petrol","5","1.8 VVT Exclusiv 5dr"
+"Jeep","Patriot","2008 (57 reg)","£800","2.0L","Manual","109,006 miles","Diesel","5","2.0 CRD Limited 4x4 5dr"
+"KIA","Ceed","2012 (62 reg)","£2,499","1.6L","Manual","132,000 miles
+35,745 miles above average","Diesel","5","1.6 CRDi EcoDynamics 3 Euro 5 (s/s) 5dr"
